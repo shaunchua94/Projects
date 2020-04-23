@@ -79,14 +79,14 @@ Linear Regression with Ridge Regularisation performed best.
 
 The table below shows the metric of each run of the models for Objective 1:
 
-<img src="./images/dsi_13_shaun_capstone_metrics_obj1.png">
+<img src="./images/dsi_13_shaun_capstone_metrics_obj1.PNG">
 
 ### Objective 2
 The Extreme Gradient Boosting Regressor (XGBoostRegressor) performed best.
 
 The table below shows the metric of each run of the models for Objective 2:
 
-<img src="./images/dsi_13_shaun_capstone_metrics_obj2.png">
+<img src="./images/dsi_13_shaun_capstone_metrics_obj2.PNG">
 
 ## 3. Discussion
 ### 3.1 Objective 1
