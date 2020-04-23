@@ -1,5 +1,5 @@
 # General Assembly DSI 13 Capstone
-# Investing the Education Consultancy Business
+# Investigating the Education Consultancy Business
 
 **Shaun Chua**
 <br> 23 April 2020
