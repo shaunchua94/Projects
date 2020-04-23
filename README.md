@@ -96,7 +96,7 @@ Therefore, we decided to proceed with the "All Features" run of the model, which
 
 <img src="./images/dsi_13_shaun_capstone_ridge_coef_plot.png">
 
-<br> In the evaluation of the model, consultants had the greatest impact on programme selling price, followed by Zone, and finally the business entity itself.
+In the evaluation of the model, consultants had the greatest impact on programme selling price, followed by Zone, and finally the business entity itself.
 
 Unit of Measure (UOM) deserves a special mention, because that feature alone could significantly impact programme selling price.
 
@@ -130,24 +130,24 @@ As best, this model should serve as a modest guide for higher-value programmes, 
 
 ## 5. Limitations
 **Small Dataset**
-This project only utilised 2 years worth of data, 2018 and 2019, resulting in 45 features with only 675 observations.
+<br> This project only utilised 2 years worth of data, 2018 and 2019, resulting in 45 features with only 675 observations.
 
 To circumvent this, future studies can consider including more years worth of sales data.
 
 **Limited Hyperparameter Tuning**
-Due to memory constraints, it was not feasible to gridsearch an exhaustive list of hyperparameters to produce the best model to train on.
+<br> Due to memory constraints, it was not feasible to gridsearch an exhaustive list of hyperparameters to produce the best model to train on.
 
 Future studies can consider Amazon Web Services (AWS), to leverage on their powerful computers.
 
 ## 6. Future Directions
 **Differentiating UOM**
-With regard to creating a model to predict selling price, future studies may find it worthwhile to first separate the dataset based on UOM.
+<br>With regard to creating a model to predict selling price, future studies may find it worthwhile to first separate the dataset based on UOM.
 
 Based on domain knowldege, the majority of per_pax tend to result in significantly higher selling prices as compared to per_hr, which may have caused some difficulty for machine learning.
 
 Additionally, this distinction could result in a more targetted model to help predict a suitable selling price for a programme, based on whether the UOM is per_pax or per_hr.
 
 **Include Cost in Place of Qty and/or Unit Price**
-Since consultants tend to adopt different pricing strategies, and different business entities sell different value programmes, it may be worth including cost-related features as part of the dataset.
+<br>Since consultants tend to adopt different pricing strategies, and different business entities sell different value programmes, it may be worth including cost-related features as part of the dataset.
 
 This eliminates the variation between business units and consultants, hopefully allowing the model to determine that some entities and/or consultants tend to sell higher than others despite similar cost-features.
