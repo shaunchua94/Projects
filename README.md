@@ -65,13 +65,13 @@ A train-test split was then conducted at a 80-20 train-test ratio, before predic
 1) Linear Regression with Regularisation (Ridge, Lasso, Elastic Net)
 
 **Objective 2:**
-2) Decision Tree Regressor
-3) Random Forest Regressor
-4) Support Vector Regressor
-5) Decision Tree Regressor with AdaBoost
-6) Random Forest Regressor with AdaBoost
-7) Gradient Boosting Regressor
-8) Extreme Gradient Boosting (XGBoost)
+1) Decision Tree Regressor
+2) Random Forest Regressor
+3) Support Vector Regressor
+4) Decision Tree Regressor with AdaBoost
+5) Random Forest Regressor with AdaBoost
+6) Gradient Boosting Regressor
+7) Extreme Gradient Boosting (XGBoost)
 
 ## 2. Findings
 ### Objective 1
