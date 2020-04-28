@@ -28,10 +28,10 @@ To create a model that may assist in predicting a suitable selling price of educ
 Modelling will be done separately for each obbjective.
 
 
-#### **Classification Metrics**
-Several classification metrics will be considered, and these include:
-**Objective 1:** Coefficient of Determination
-**Objective 2:** Root-Mean-Square Error (RMSE)
+#### **Regression Metrics**
+Several regression metrics will be considered, and these include:
+<br> **Objective 1:** Coefficient of Determination
+<br> **Objective 2:** Root-Mean-Square Error (RMSE)
 
 
 #### **Application**
