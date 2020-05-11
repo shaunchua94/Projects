@@ -7,25 +7,25 @@
 
 ## Problem Statement
 **Context**
-It is evident that problem gambling <a href="https://www.straitstimes.com/singapore/more-seek-help-for-gambling-problems">continues to exist</a> in Singapore, with illegal gambling persisting even <a href="https://www.straitstimes.com/singapore/police-arrest-37-people-seized-more-than-3000-in-illegal-gambling-prostitution-sting">in recent times</a>.
+<br> It is evident that problem gambling <a href="https://www.straitstimes.com/singapore/more-seek-help-for-gambling-problems">continues to exist</a> in Singapore, with illegal gambling persisting even <a href="https://www.straitstimes.com/singapore/police-arrest-37-people-seized-more-than-3000-in-illegal-gambling-prostitution-sting">in recent times</a>.
 
 As the <a href="https://www.ncpg.org.sg/en/Pages/Home.aspx">National Council on problem Gambling</a> (NCG) continues to combat problem gambling, finding a method to distinguish between gambling and problem gambling may prove useful.
 
 To this end, our project aims to develop a model that will assist in identifying individuals heading towards problem gambling, or are already facing problem gambling.
 
 **Project Goals**
-The goal of this project is two-fold:
+<br> The goal of this project is two-fold:
 <br> (1) Utilise Reddit's Application Programming Interface (API) to collect posts from **two** subreddits
 (2) Utilise Natural Language Processsing (NLP) to train **at least two** models which can be used to classify posts based on which of the two subreddits it came from.
 
 The two subreddits I will be using are <a href="https://www.reddit.com/r/problemgambling/">**r/problemgambling**</a> and <a href="https://www.reddit.com/r/gambling/">**r/gambling**</a>.
 
 **Models Utilised**
-The **Multinomial Naive Bayes Model** and **Logistic Regression Model** will be used.
+<br> The **Multinomial Naive Bayes Model** and **Logistic Regression Model** will be used.
 <a id="here"></a>
 
 **Classification Metrics**
-Several classification metrics will be considered, and these include:
+<br> Several classification metrics will be considered, and these include:
 <br> 1) Accuracy
 2) Sensitivity
 3) Specificity
@@ -34,7 +34,7 @@ Several classification metrics will be considered, and these include:
 We will pay special attention to **Sensitivity** because we feel that it is more important to correctly identify a problem gambler, as opposed to correctly identifying a non-problem gambler (specificity).
 
 **Application**
-The findings of this project may provide insight which caters to **two main stakeholder groups**.
+<br> The findings of this project may provide insight which caters to **two main stakeholder groups**.
 
 First, to the NCPG Management, and second, to the NCPG Data Science Team.
 
@@ -72,10 +72,10 @@ The table below shows the various classification metrics scores for each run of 
 
 ## 3. Discussion
 **Model Selection**
-We decided to adopt the Optimised Logistic Regression, in favour of the lower tradeoff for specificity despite the lower sensitivity score.
+<br> We decided to adopt the Optimised Logistic Regression, in favour of the lower tradeoff for specificity despite the lower sensitivity score.
 
 **Feature Words**
-The bar plot below shows the coefficients of the top 20 feature words obtain from the model. Evidently, certain words tended to lead the model to classify a post as originating from r/problemgambling and others from r/gambling.
+<br> The bar plot below shows the coefficients of the top 20 feature words obtain from the model. Evidently, certain words tended to lead the model to classify a post as originating from r/problemgambling and others from r/gambling.
 
 <img src="./images/dsi_13_sg_shaun_project_3_featurewordcoefs.png">
 
@@ -90,15 +90,15 @@ We believe that our model is able to classify posts correctly to a large extent 
 
 #### <font color = green> Primary Audience Recommendations: NCPG Management </font>
 Recommendations for the NCPG can be split broadly into two categories:
-<br>(1) Early Intervention
-(2) Post Intervention
+<br>1) Early Intervention
+<br> 2) Post Intervention
 
 ##### Early Intervention
 Feature words can be used by NCPG personnel to identify individuals who are at risk of developing debilitative gambling habits.
 
 Feature words can be incorporated into a variety of exisiting or potential means as a form of problem gambling identification. These methods may include but are not limited to:
 <br> **1) Consultations**
-**2) Surveys**
+<br> **2) Surveys**
 
 Appropriate follow up action can then be considered, but this is **beyond the scope of our project**.
 
