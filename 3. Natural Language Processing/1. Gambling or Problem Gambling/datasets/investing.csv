@@ -1,0 +1,927 @@
+approved_at_utc,subreddit,selftext,author_fullname,saved,mod_reason_title,gilded,clicked,title,link_flair_richtext,subreddit_name_prefixed,hidden,pwls,link_flair_css_class,downs,hide_score,name,quarantine,link_flair_text_color,author_flair_background_color,subreddit_type,ups,total_awards_received,media_embed,author_flair_template_id,is_original_content,user_reports,secure_media,is_reddit_media_domain,is_meta,category,secure_media_embed,link_flair_text,can_mod_post,score,approved_by,author_premium,thumbnail,edited,author_flair_css_class,author_flair_richtext,gildings,content_categories,is_self,mod_note,created,link_flair_type,wls,removed_by_category,banned_by,author_flair_type,domain,allow_live_comments,selftext_html,likes,suggested_sort,banned_at_utc,view_count,archived,no_follow,is_crosspostable,pinned,over_18,all_awardings,awarders,media_only,can_gild,spoiler,locked,author_flair_text,visited,removed_by,num_reports,distinguished,subreddit_id,mod_reason_by,removal_reason,link_flair_background_color,id,is_robot_indexable,report_reasons,author,discussion_type,num_comments,send_replies,whitelist_status,contest_mode,mod_reports,author_patreon_flair,author_flair_text_color,permalink,parent_whitelist_status,stickied,url,subreddit_subscribers,created_utc,num_crossposts,media,is_video
+,investing,"Alright everyone, it looks like we had pretty broad support in [this thread](https://www.reddit.com/r/investing/comments/cuuo6j/yooo_get_in_here_peeps_state_of_the_subreddit/) when it comes to cracking down on the hyper partisanship that's been spilling out of the political subreddits to all corners of reddit.  In this thread I'm going to lay out some formal guidelines for comments on political topics.  Since this is so widespread I want to be clear here: this post is everyone's formal warning.  That means temporary or in some cases permanent bans are being handed out for people who violate said guidelines immediately.  This is really the only way to deal wit this issue.  I'm going to try to get automod to sticky applicable threads with this post as well.   
+
+**First lets address politics**
+
+I want to note something first: we are absolutely enforcing higher posting standards for political threads.  I think it's entirely uncontroversial to point out that calling Warren Buffett an asshole doesn't nearly stir up the anger that calling any given political figure an asshole will.  Comments like that being upvoted quickly derail threads and drive the discussion away from investing.  
+
+**So here's the simple guideline which I'll expand on: you're free to express your opinion so long as it's tied to investing, you put effort in to it, and it's civil.**  We're not here to stop the free flow of discussion or ideas but we are here to keep discussion surrounding investing and civil.
+
+**Tied to investing:** this should be pretty straightforward but I'm laying it out here anyway.  Investing encompasses markets, economic impacts, corporate profits, shifts in the yield curve, the federal reserve, taxes, potential government spending that may impact your portfolio.  
+
+Investing does not encompass immigration, personal lives of politicians, social issues, climate change(unless specifically within the context of impact to energy or similar), how you feel about a particular news organization's potential biases, etc.  If it's not in the first list it's probably not investing related.  Making comments pertaining to non investment related politics only serves to drive the conversation off course and create a thread that is indistinguishable from one in a political subreddit.  Driving conversation off topic in high level comments by bringing up politics in unrelated threads also falls in this category.  
+
+**Effort:** no shitposts.  If you're not conveying a thought or analysis of a particular subject then it's probably best to not post.  Furthermore top level comments like ""fuck my portfolio"" don't help keeping conversation on track.  Lastly and most importantly anything that falls in to the political meme universe isn't going to fly here.  That means if you're repeating something like TDS, MAGA, trade wars are good and easy to win, Pocahontas, orange man bad, any of the millions of nicknames for the president, very stable genius, any given childish spin on Democrat/republican(ex DemocRAT or Republitard), etc isn't tolerated.  These sorts of things only serve to agitate those on the opposite end of the political spectrum and create partisan arguments.
+
+Your post should be something like ""I disagree/agree with Trump here because [policy] will do XYZ which is good/bad for ABC and blah blah blah blah"".  If you are unable to express an investment related position on a topic without insults and memes then you probably should just go to a political subreddit and comment there.
+
+Special note here: conspiracy theories about politics and markets are not allowed.  If you are going to imply criminal market manipulation or insider trading proof in the form of reporting or other documentation is necessary.  This is not a place for baseless accusations derived from political leaning. 
+
+**Civility:** so we already don't allow personal attacks here.  Generally speaking many people identify so closely with political parties and politicians that they react to political attacks the same way they will to personal attacks.  I get it, people get worked up over politics.  Translating that emotion to a post here only serves to have people with opposing views get similarly worked up.  This isn't an appropriate subreddit for that.  We're here to discuss investing.  So any comment that would violate our personal attacks rule if you made it towards another user is prohibited against political parties or figures.  /r/investing is not a platform for people to express their outrage towards politicians or political parties.  There are tons of subreddits for that sort of thing. 
+
+So now that the guidelines are made clear, here's the consequences.  In our observation the vast majority of people engaging in political attacks and low effort posts are not regular contributors.  They tend to frequent political subreddits and engage in political attacks elsewhere.  So we're automatically handing out 30 day bans for violation of the above rules.  If you feel like your ban was in error or unfair you can appeal in modmail but we're not really inclined to reverse decisions if you aren't already a regular contributor.  For egregious offenses the ban may be 60 days or permanent.  For overt racism, death threats against any public figure, or similar there is an automatic permanent ban.   
+
+**Now Corporate vs Investment News**
+
+/u/crasymike did an awesome job laying out the general guidelines here: https://www.reddit.com/r/investing/comments/b3ss3q/topics_being_removed_corporate_news_vs_investor/
+
+I'm going to just copy some of the hard guidelines here so they're in the same place but take a look at that thread to see a full explanation.
+
+tl;dr Not all corporate news is investment news. If you post a topic the onus is on you to guide the discussion towards investing. If the moderators feel that a topic lacks relevance (which is more clearly defined below) then it might be removed. Off-topic top-level comments have similar standards applied to them.
+
+This means that the onus is on you as the person posting the topic to guide the discussion. As moderators all we can do is remove offending comments, but we can't incite relevant discussion in every topic.
+
+Tell us, why is this political news impactful? Seek out an article that discusses market impacts rather than a generic article. If you want to post corporate news then find an article that includes the impact on the investment. Copy that information into the body of your post. Include price history. Add other pertinent links or details for the corporate.
+
+If you include no relevant investing information then don't be surprised if the topic is completely derailed from discussing investing. If you are posting a topic you need to invite people to talk about investing by using an article, or including information, that is pertinent to investors.
+
+As moderators, we have a few policies that we use to guide ourselves. This is a broad rule that requires some interpretation, but here we go:
+
+* If we can't figure out how your topic relates to investing, and the article doesn't include any (or extremely little) market news, and the body of your post doesn't link the topic to investing we will probably remove it as off-topic.
+
+*  If your topic has an indirect relation to investing (such as being about a public company, or is major market shifting news) but you included no market information and the article(s) you linked have no investing information we may remove it if we feel that there is no clear reason to expect on-topic comments.
+
+* If someone posts a top-level comment on a thread that completely derails away from investing we will probably remove it.
+
+**If the policies above would result in the modteam seemingly needing to remove nearly every top level comment in a thread, and we felt like your thread is ""borderline"" not investing news, then we will take this as confirmation that the topic wasn't investing news.  If the entire conversation in a thread is already driven off topic by political attacks or off topic discussion we will lock and remove a thread no matter how topical it is.  Please do your part and downvote/report political attacks even if you agree with them.  This will prevent us from just nuking a thread**",t2_p8vmm,False,,0,False,Formal posting guidelines for political topics and what constitutes investment vs corporate news. **READ BEFORE COMMENTING IN THIS SUB PLEASE**,[],r/investing,False,6,,0,False,t3_cyee69,False,dark,,public,271,0,{},,False,[],,False,False,,{},,False,271,,False,,1567518369.0,,[],{},,True,,1567395088.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Alright everyone, it looks like we had pretty broad support in &lt;a href=""https://www.reddit.com/r/investing/comments/cuuo6j/yooo_get_in_here_peeps_state_of_the_subreddit/""&gt;this thread&lt;/a&gt; when it comes to cracking down on the hyper partisanship that&amp;#39;s been spilling out of the political subreddits to all corners of reddit.  In this thread I&amp;#39;m going to lay out some formal guidelines for comments on political topics.  Since this is so widespread I want to be clear here: this post is everyone&amp;#39;s formal warning.  That means temporary or in some cases permanent bans are being handed out for people who violate said guidelines immediately.  This is really the only way to deal wit this issue.  I&amp;#39;m going to try to get automod to sticky applicable threads with this post as well.   &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First lets address politics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to note something first: we are absolutely enforcing higher posting standards for political threads.  I think it&amp;#39;s entirely uncontroversial to point out that calling Warren Buffett an asshole doesn&amp;#39;t nearly stir up the anger that calling any given political figure an asshole will.  Comments like that being upvoted quickly derail threads and drive the discussion away from investing.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So here&amp;#39;s the simple guideline which I&amp;#39;ll expand on: you&amp;#39;re free to express your opinion so long as it&amp;#39;s tied to investing, you put effort in to it, and it&amp;#39;s civil.&lt;/strong&gt;  We&amp;#39;re not here to stop the free flow of discussion or ideas but we are here to keep discussion surrounding investing and civil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tied to investing:&lt;/strong&gt; this should be pretty straightforward but I&amp;#39;m laying it out here anyway.  Investing encompasses markets, economic impacts, corporate profits, shifts in the yield curve, the federal reserve, taxes, potential government spending that may impact your portfolio.  &lt;/p&gt;
+
+&lt;p&gt;Investing does not encompass immigration, personal lives of politicians, social issues, climate change(unless specifically within the context of impact to energy or similar), how you feel about a particular news organization&amp;#39;s potential biases, etc.  If it&amp;#39;s not in the first list it&amp;#39;s probably not investing related.  Making comments pertaining to non investment related politics only serves to drive the conversation off course and create a thread that is indistinguishable from one in a political subreddit.  Driving conversation off topic in high level comments by bringing up politics in unrelated threads also falls in this category.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Effort:&lt;/strong&gt; no shitposts.  If you&amp;#39;re not conveying a thought or analysis of a particular subject then it&amp;#39;s probably best to not post.  Furthermore top level comments like &amp;quot;fuck my portfolio&amp;quot; don&amp;#39;t help keeping conversation on track.  Lastly and most importantly anything that falls in to the political meme universe isn&amp;#39;t going to fly here.  That means if you&amp;#39;re repeating something like TDS, MAGA, trade wars are good and easy to win, Pocahontas, orange man bad, any of the millions of nicknames for the president, very stable genius, any given childish spin on Democrat/republican(ex DemocRAT or Republitard), etc isn&amp;#39;t tolerated.  These sorts of things only serve to agitate those on the opposite end of the political spectrum and create partisan arguments.&lt;/p&gt;
+
+&lt;p&gt;Your post should be something like &amp;quot;I disagree/agree with Trump here because [policy] will do XYZ which is good/bad for ABC and blah blah blah blah&amp;quot;.  If you are unable to express an investment related position on a topic without insults and memes then you probably should just go to a political subreddit and comment there.&lt;/p&gt;
+
+&lt;p&gt;Special note here: conspiracy theories about politics and markets are not allowed.  If you are going to imply criminal market manipulation or insider trading proof in the form of reporting or other documentation is necessary.  This is not a place for baseless accusations derived from political leaning. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Civility:&lt;/strong&gt; so we already don&amp;#39;t allow personal attacks here.  Generally speaking many people identify so closely with political parties and politicians that they react to political attacks the same way they will to personal attacks.  I get it, people get worked up over politics.  Translating that emotion to a post here only serves to have people with opposing views get similarly worked up.  This isn&amp;#39;t an appropriate subreddit for that.  We&amp;#39;re here to discuss investing.  So any comment that would violate our personal attacks rule if you made it towards another user is prohibited against political parties or figures.  &lt;a href=""/r/investing""&gt;/r/investing&lt;/a&gt; is not a platform for people to express their outrage towards politicians or political parties.  There are tons of subreddits for that sort of thing. &lt;/p&gt;
+
+&lt;p&gt;So now that the guidelines are made clear, here&amp;#39;s the consequences.  In our observation the vast majority of people engaging in political attacks and low effort posts are not regular contributors.  They tend to frequent political subreddits and engage in political attacks elsewhere.  So we&amp;#39;re automatically handing out 30 day bans for violation of the above rules.  If you feel like your ban was in error or unfair you can appeal in modmail but we&amp;#39;re not really inclined to reverse decisions if you aren&amp;#39;t already a regular contributor.  For egregious offenses the ban may be 60 days or permanent.  For overt racism, death threats against any public figure, or similar there is an automatic permanent ban.   &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now Corporate vs Investment News&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""/u/crasymike""&gt;/u/crasymike&lt;/a&gt; did an awesome job laying out the general guidelines here: &lt;a href=""https://www.reddit.com/r/investing/comments/b3ss3q/topics_being_removed_corporate_news_vs_investor/""&gt;https://www.reddit.com/r/investing/comments/b3ss3q/topics_being_removed_corporate_news_vs_investor/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m going to just copy some of the hard guidelines here so they&amp;#39;re in the same place but take a look at that thread to see a full explanation.&lt;/p&gt;
+
+&lt;p&gt;tl;dr Not all corporate news is investment news. If you post a topic the onus is on you to guide the discussion towards investing. If the moderators feel that a topic lacks relevance (which is more clearly defined below) then it might be removed. Off-topic top-level comments have similar standards applied to them.&lt;/p&gt;
+
+&lt;p&gt;This means that the onus is on you as the person posting the topic to guide the discussion. As moderators all we can do is remove offending comments, but we can&amp;#39;t incite relevant discussion in every topic.&lt;/p&gt;
+
+&lt;p&gt;Tell us, why is this political news impactful? Seek out an article that discusses market impacts rather than a generic article. If you want to post corporate news then find an article that includes the impact on the investment. Copy that information into the body of your post. Include price history. Add other pertinent links or details for the corporate.&lt;/p&gt;
+
+&lt;p&gt;If you include no relevant investing information then don&amp;#39;t be surprised if the topic is completely derailed from discussing investing. If you are posting a topic you need to invite people to talk about investing by using an article, or including information, that is pertinent to investors.&lt;/p&gt;
+
+&lt;p&gt;As moderators, we have a few policies that we use to guide ourselves. This is a broad rule that requires some interpretation, but here we go:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If we can&amp;#39;t figure out how your topic relates to investing, and the article doesn&amp;#39;t include any (or extremely little) market news, and the body of your post doesn&amp;#39;t link the topic to investing we will probably remove it as off-topic.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If your topic has an indirect relation to investing (such as being about a public company, or is major market shifting news) but you included no market information and the article(s) you linked have no investing information we may remove it if we feel that there is no clear reason to expect on-topic comments.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If someone posts a top-level comment on a thread that completely derails away from investing we will probably remove it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;If the policies above would result in the modteam seemingly needing to remove nearly every top level comment in a thread, and we felt like your thread is &amp;quot;borderline&amp;quot; not investing news, then we will take this as confirmation that the topic wasn&amp;#39;t investing news.  If the entire conversation in a thread is already driven off topic by political attacks or off topic discussion we will lock and remove a thread no matter how topical it is.  Please do your part and downvote/report political attacks even if you agree with them.  This will prevent us from just nuking a thread&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,True,False,False,False,False,[],[],False,False,False,True,,False,,,,t5_2qhhq,,,,cyee69,True,,MasterCookSwag,,0,True,all_ads,False,[],False,,/r/investing/comments/cyee69/formal_posting_guidelines_for_political_topics/,all_ads,True,https://www.reddit.com/r/investing/comments/cyee69/formal_posting_guidelines_for_political_topics/,945368,1567366288.0,1,,False
+,investing,"If your question is ""I have $10,000, what do I do?"" or other ""advice for my personal situation"" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!",t2_6l4z3,False,,0,False,Daily Advice Thread - All basic help or advice questions must be posted here.,[],r/investing,False,6,,0,False,t3_fftrxo,False,dark,,public,5,0,{},,False,[],,False,False,,{},,False,5,,True,,False,,[],{},,True,,1583785042.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;If your question is &amp;quot;I have $10,000, what do I do?&amp;quot; or other &amp;quot;advice for my personal situation&amp;quot; questions. If you are going to ask how to invest you should include relevant information, such as the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How old are you?&lt;/li&gt;
+&lt;li&gt;Are you employed/making income? How much?&lt;/li&gt;
+&lt;li&gt;What are your objectives with this money? (buy a house? Retirement savings?)&lt;/li&gt;
+&lt;li&gt;What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)&lt;/li&gt;
+&lt;li&gt;What are you current holdings? (Do you already have exposure to specific funds and sectors?)&lt;/li&gt;
+&lt;li&gt;Any other assets? House paid off? Cars? Expensive significant other?&lt;/li&gt;
+&lt;li&gt;What is your time horizon? Do you need this money next month? Next 20yrs?&lt;/li&gt;
+&lt;li&gt;Any big debts?&lt;/li&gt;
+&lt;li&gt;Any other relevant financial information will be useful to give you a proper answer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please consider consulting our FAQ first - &lt;a href=""https://www.reddit.com/r/investing/wiki/faq""&gt;https://www.reddit.com/r/investing/wiki/faq&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,new,,,False,True,False,False,False,[],[],False,False,False,False,,False,,,moderator,t5_2qhhq,,,,fftrxo,True,,AutoModerator,,68,False,all_ads,False,[],False,,/r/investing/comments/fftrxo/daily_advice_thread_all_basic_help_or_advice/,all_ads,True,https://www.reddit.com/r/investing/comments/fftrxo/daily_advice_thread_all_basic_help_or_advice/,945368,1583756242.0,0,,False
+,investing,"**Halted until 949AM eastern time**
+
+[https://www.cnbc.com/2020/03/08/dow-futures-drop-700-points-as-all-out-oil-price-war-adds-to-coronavirus-stress.html](https://www.cnbc.com/2020/03/08/dow-futures-drop-700-points-as-all-out-oil-price-war-adds-to-coronavirus-stress.html)",t2_17hjno,False,,0,False,Stock trading halted amid 7% drop of S&amp;P500,[],r/investing,False,6,,0,True,t3_ffuqzw,False,dark,,public,469,0,{},,False,[],,False,False,,{},,False,469,,False,,1583761630.0,,[],{},,True,,1583789769.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;strong&gt;Halted until 949AM eastern time&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.cnbc.com/2020/03/08/dow-futures-drop-700-points-as-all-out-oil-price-war-adds-to-coronavirus-stress.html""&gt;https://www.cnbc.com/2020/03/08/dow-futures-drop-700-points-as-all-out-oil-price-war-adds-to-coronavirus-stress.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffuqzw,True,,PerestroikaPal,,290,True,all_ads,False,[],False,,/r/investing/comments/ffuqzw/stock_trading_halted_amid_7_drop_of_sp500/,all_ads,False,https://www.reddit.com/r/investing/comments/ffuqzw/stock_trading_halted_amid_7_drop_of_sp500/,945368,1583760969.0,0,,False
+,investing,"This will be short and sweet:
+
+I am someone who ""survived"" the market in 2008. If you are an investor, not a trader, my advice to you at this point is: don't change your investments or contributions and shut off all the noise. It is not healthy and no one really knows what will happen. 10 years from now though, you will most likely be better off having changed nothing (assuming your were investing in a long-term balanced portfolio, and yes continue to rebalance if you have a set paramerter/schedule).
+
+To that end, I am unsubscribing to r/investing. Goodbye and good luck, this is where you really get to find out what your risk tolerance is :)",t2_6hfte,False,,0,False,Goodbye until this is all over.,[],r/investing,False,6,,0,False,t3_ffonva,False,dark,,public,885,0,{},,False,[],,False,False,,{},,False,885,,False,,False,,[],{},,True,,1583754122.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;This will be short and sweet:&lt;/p&gt;
+
+&lt;p&gt;I am someone who &amp;quot;survived&amp;quot; the market in 2008. If you are an investor, not a trader, my advice to you at this point is: don&amp;#39;t change your investments or contributions and shut off all the noise. It is not healthy and no one really knows what will happen. 10 years from now though, you will most likely be better off having changed nothing (assuming your were investing in a long-term balanced portfolio, and yes continue to rebalance if you have a set paramerter/schedule).&lt;/p&gt;
+
+&lt;p&gt;To that end, I am unsubscribing to &lt;a href=""/r/investing""&gt;r/investing&lt;/a&gt;. Goodbye and good luck, this is where you really get to find out what your risk tolerance is :)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffonva,True,,vegdeg,,355,True,all_ads,False,[],False,,/r/investing/comments/ffonva/goodbye_until_this_is_all_over/,all_ads,False,https://www.reddit.com/r/investing/comments/ffonva/goodbye_until_this_is_all_over/,945368,1583725322.0,0,,False
+,investing,,t2_4zapk9hd,False,,0,False,"DOW expected to fall 1,000+ points by tomorrow open. Thanks Saudi.",[],r/investing,False,6,,0,False,t3_ffkr7b,False,dark,,public,1250,0,{},,False,[],,False,False,,{},,False,1250,,False,,False,,[],{},,True,,1583736778.0,text,6,,,text,self.investing,True,,,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffkr7b,True,,markyu008,,600,True,all_ads,False,[],False,,/r/investing/comments/ffkr7b/dow_expected_to_fall_1000_points_by_tomorrow_open/,all_ads,False,https://www.reddit.com/r/investing/comments/ffkr7b/dow_expected_to_fall_1000_points_by_tomorrow_open/,945368,1583707978.0,0,,False
+,investing,"The entire yield curve for U.S. bonds fell below 1% for the first time in history after an all-out price war between the world’s biggest oil exporters triggered an unprecedented global bond rally.
+
+U.S. Treasury yields plunged, with the rate on 30-year bonds diving as much as 59 basis points, as rising expectations the Federal Reserve will cut policy rates to 0% in the coming months drove investors to reach to longer maturities for yield. U.K. government bond yields tumbled below zero for the first time, Germany’s two-year bonds were close to a record, and rates in Australia and New Zealand fell to new lows.
+
+The spread of the coronavirus and its fallout on supply chains and consumer spending have seen a dramatic repricing of global interest-rate expectations in the past month. The jolt lower in oil from the price war will sap inflation, increasing pressure on the Fed to take rates to the lowest since the global financial crisis.
+
+“The more I think about it, the more it makes sense to me that that the U.S. cash rate will fall below zero some time very, very soon,” said Chris Rands, portfolio manager at Nikko Asset Management Ltd. in Sydney. “I wouldn’t be surprised if the U.S. tries negative rates, especially with the tailspin in oil now adding to the virus fears.”
+
+The stampede for Treasuries comes after a weekend dominated by crisis headlines including the oil price-war, plunging Chinese exports and Italy’s virus-induced lockdown. Adding to the sense of malaise, Japan posted its biggest economic contraction in more than five years, while France said its economy may barely expand.
+
+Risk assets plunged with S&amp;P futures dropping about 5% to hit circuit breakers, and European stocks plunged by the most since 2016, putting the STOXX Europe 600 Index on course for a bear market. Commodity-linked currencies weakened, with Norway’s krone and Canada’s dollar falling at least 1% against the U.S. dollar. Italian bonds plunged, sending the yield on 10-year debt to 1.23%.
+
+Meanwhile, the yen and the euro strengthened. And the dollar, which suffered its worst week in two years, was up slightly, as soaring demand for U.S. Treasuries canceled out concerns that more Fed cuts would hurt the greenback’s appeal. The dollar has an edge over its peers by being the world’s reserve currency of choice.
+
+**On a Tear**
+
+Treasuries, the world’s deepest pool of haven assets, had been rallying in the past few weeks as the virus wreaked havoc across the globe. Federal Reserve Chairman Jerome Powell surprised markets last week with an emergency rate cut of 50 basis points, raising the specter that the virus fallout will be longer and worse than anticipated.
+
+**Bad Old Days**
+
+The yield on 10-year bonds dropped as much as 45 basis points to 0.31%, before settling at 0.5% as of 9:30 a.m. in London. Most of the German curve is now trading under negative 0.55%, which, together with the euro’s advance, may give the European Central Bank food for thought when it decides on interest rates this week.
+
+“We know what the financial crisis looked like, the tech wreck, but this bond rally we’re seeing is just unchartered waters,” said Stephen Miller, adviser at GSFM, a unit of Canada’s CI Financial Group. “A global recession is now a probability, not a possibility.”
+
+**Central Bank Action**
+
+Markets are pricing almost 75 basis points of rate cuts by the Fed at the March meeting, with a return to the 0% lower bound expected by the end of the year. Some are speculating that the U.S. central bank will deploy unconventional policies used to combat the global financial crisis. That’s driving the larger moves in long-dated bonds.
+
+Federal Reserve Bank of Boston President Eric Rosengren said Friday that policy makers should be allowed to buy a broader range of assets if they lack sufficient ammunition to fight off a recession with interest-rate cuts and bond purchases.
+
+Money managers are expecting the Reserve Bank of Australia to turn to QE as soon as the middle the year, while bets are increasing for the Bank of Japan to ease this month.
+
+“The market is panicking,” said Shinji Hiramatsu, a senior investment manager at Sompo Japan Nipponkoa Asset Management Co. in Tokyo. “Position adjustment, loss-cut buying and all sorts of buying are emerging. Everybody’s buying Treasuries.”
+
+&amp;#x200B;
+
+ [https://www.bloomberg.com/news/articles/2020-03-09/treasury-10-year-yields-sink-to-0-5-for-the-first-time?utm\_source=twitter&amp;cmpid=socialflow-twitter-business&amp;utm\_campaign=socialflow-organic&amp;utm\_content=business&amp;utm\_medium=social](https://www.bloomberg.com/news/articles/2020-03-09/treasury-10-year-yields-sink-to-0-5-for-the-first-time?utm_source=twitter&amp;cmpid=socialflow-twitter-business&amp;utm_campaign=socialflow-organic&amp;utm_content=business&amp;utm_medium=social)",t2_1h43nh6,False,,0,False,The entire yield curve for U.S. bonds fall below 1% for the first time in history,[],r/investing,False,6,,0,False,t3_ffsz7f,False,dark,,public,102,0,{},,False,[],,False,False,,{},,False,102,,False,,False,,[],{},,True,,1583780570.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;The entire yield curve for U.S. bonds fell below 1% for the first time in history after an all-out price war between the world’s biggest oil exporters triggered an unprecedented global bond rally.&lt;/p&gt;
+
+&lt;p&gt;U.S. Treasury yields plunged, with the rate on 30-year bonds diving as much as 59 basis points, as rising expectations the Federal Reserve will cut policy rates to 0% in the coming months drove investors to reach to longer maturities for yield. U.K. government bond yields tumbled below zero for the first time, Germany’s two-year bonds were close to a record, and rates in Australia and New Zealand fell to new lows.&lt;/p&gt;
+
+&lt;p&gt;The spread of the coronavirus and its fallout on supply chains and consumer spending have seen a dramatic repricing of global interest-rate expectations in the past month. The jolt lower in oil from the price war will sap inflation, increasing pressure on the Fed to take rates to the lowest since the global financial crisis.&lt;/p&gt;
+
+&lt;p&gt;“The more I think about it, the more it makes sense to me that that the U.S. cash rate will fall below zero some time very, very soon,” said Chris Rands, portfolio manager at Nikko Asset Management Ltd. in Sydney. “I wouldn’t be surprised if the U.S. tries negative rates, especially with the tailspin in oil now adding to the virus fears.”&lt;/p&gt;
+
+&lt;p&gt;The stampede for Treasuries comes after a weekend dominated by crisis headlines including the oil price-war, plunging Chinese exports and Italy’s virus-induced lockdown. Adding to the sense of malaise, Japan posted its biggest economic contraction in more than five years, while France said its economy may barely expand.&lt;/p&gt;
+
+&lt;p&gt;Risk assets plunged with S&amp;amp;P futures dropping about 5% to hit circuit breakers, and European stocks plunged by the most since 2016, putting the STOXX Europe 600 Index on course for a bear market. Commodity-linked currencies weakened, with Norway’s krone and Canada’s dollar falling at least 1% against the U.S. dollar. Italian bonds plunged, sending the yield on 10-year debt to 1.23%.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, the yen and the euro strengthened. And the dollar, which suffered its worst week in two years, was up slightly, as soaring demand for U.S. Treasuries canceled out concerns that more Fed cuts would hurt the greenback’s appeal. The dollar has an edge over its peers by being the world’s reserve currency of choice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On a Tear&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Treasuries, the world’s deepest pool of haven assets, had been rallying in the past few weeks as the virus wreaked havoc across the globe. Federal Reserve Chairman Jerome Powell surprised markets last week with an emergency rate cut of 50 basis points, raising the specter that the virus fallout will be longer and worse than anticipated.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bad Old Days&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The yield on 10-year bonds dropped as much as 45 basis points to 0.31%, before settling at 0.5% as of 9:30 a.m. in London. Most of the German curve is now trading under negative 0.55%, which, together with the euro’s advance, may give the European Central Bank food for thought when it decides on interest rates this week.&lt;/p&gt;
+
+&lt;p&gt;“We know what the financial crisis looked like, the tech wreck, but this bond rally we’re seeing is just unchartered waters,” said Stephen Miller, adviser at GSFM, a unit of Canada’s CI Financial Group. “A global recession is now a probability, not a possibility.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Central Bank Action&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Markets are pricing almost 75 basis points of rate cuts by the Fed at the March meeting, with a return to the 0% lower bound expected by the end of the year. Some are speculating that the U.S. central bank will deploy unconventional policies used to combat the global financial crisis. That’s driving the larger moves in long-dated bonds.&lt;/p&gt;
+
+&lt;p&gt;Federal Reserve Bank of Boston President Eric Rosengren said Friday that policy makers should be allowed to buy a broader range of assets if they lack sufficient ammunition to fight off a recession with interest-rate cuts and bond purchases.&lt;/p&gt;
+
+&lt;p&gt;Money managers are expecting the Reserve Bank of Australia to turn to QE as soon as the middle the year, while bets are increasing for the Bank of Japan to ease this month.&lt;/p&gt;
+
+&lt;p&gt;“The market is panicking,” said Shinji Hiramatsu, a senior investment manager at Sompo Japan Nipponkoa Asset Management Co. in Tokyo. “Position adjustment, loss-cut buying and all sorts of buying are emerging. Everybody’s buying Treasuries.”&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.bloomberg.com/news/articles/2020-03-09/treasury-10-year-yields-sink-to-0-5-for-the-first-time?utm_source=twitter&amp;amp;cmpid=socialflow-twitter-business&amp;amp;utm_campaign=socialflow-organic&amp;amp;utm_content=business&amp;amp;utm_medium=social""&gt;https://www.bloomberg.com/news/articles/2020-03-09/treasury-10-year-yields-sink-to-0-5-for-the-first-time?utm_source=twitter&amp;amp;cmpid=socialflow-twitter-business&amp;amp;utm_campaign=socialflow-organic&amp;amp;utm_content=business&amp;amp;utm_medium=social&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffsz7f,True,,Panosmek,,4,True,all_ads,False,[],False,,/r/investing/comments/ffsz7f/the_entire_yield_curve_for_us_bonds_fall_below_1/,all_ads,False,https://www.reddit.com/r/investing/comments/ffsz7f/the_entire_yield_curve_for_us_bonds_fall_below_1/,945368,1583751770.0,0,,False
+,investing,https://www.cnbc.com/quotes/?symbol=US10Y,t2_foceb,False,,0,False,The 10 year bond just dipped below 0.5%. Crazy times!,[],r/investing,False,6,,0,False,t3_fflkrc,False,dark,,public,704,0,{},,False,[],,False,False,,{},,False,704,,False,,False,,[],{},,True,,1583740247.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.cnbc.com/quotes/?symbol=US10Y""&gt;https://www.cnbc.com/quotes/?symbol=US10Y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fflkrc,True,,classyshepard,,261,True,all_ads,False,[],False,,/r/investing/comments/fflkrc/the_10_year_bond_just_dipped_below_05_crazy_times/,all_ads,False,https://www.reddit.com/r/investing/comments/fflkrc/the_10_year_bond_just_dipped_below_05_crazy_times/,945368,1583711447.0,0,,False
+,investing,It's going to ugly tomorrow.,t2_zwbk87,False,,0,False,"S&amp;P Futures down 5%, trading halted.",[],r/investing,False,6,,0,False,t3_ffngfh,False,dark,,public,336,0,{},,False,[],,False,False,,{},,False,336,,False,,False,,[],{},,True,,1583748557.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;It&amp;#39;s going to ugly tomorrow.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffngfh,True,,ConcreteCrusher,,221,True,all_ads,False,[],False,,/r/investing/comments/ffngfh/sp_futures_down_5_trading_halted/,all_ads,False,https://www.reddit.com/r/investing/comments/ffngfh/sp_futures_down_5_trading_halted/,945368,1583719757.0,0,,False
+,investing,"[https://www.zerohedge.com/markets/market-bloodbath-middle-east-stocks-crater-kuwait-halted-aramco-below-ipo-dow-down-500](https://www.zerohedge.com/markets/market-bloodbath-middle-east-stocks-crater-kuwait-halted-aramco-below-ipo-dow-down-500)
+
+&amp;#x200B;
+
+edit 2:
+
+WTI futures down to ~~$32.5 (-20%)~~  $28 (-33%) after the futures market opened:
+
+[https://m.investing.com/commodities/](https://m.investing.com/commodities/)
+
+&amp;#x200B;
+
+edit 1: NY Times article with some good info (and for those who don't like ZH)
+
+[https://www.nytimes.com/2020/03/08/business/saudi-arabia-oil-prices.html](https://www.nytimes.com/2020/03/08/business/saudi-arabia-oil-prices.html)
+
+“Saudi Arabia is protecting its market position in the face of a collapse in oil demand, a shrinking physical  market and greatly reduced prices,” said Sadad al-Husseini, a former  executive vice president of Saudi Aramco. He argued that both Russia and  Saudi Arabia would “come out of this down cycle as stronger players,  while shale oil, oil sands and other costly or politically unstable  producers struggle for financing.”
+
+“If  you are Russia, it’s worth it for you to take a three-month price hit  to see if you can knock out U.S. oil exports,” said Amy Myers Jaffe, an  oil and Middle East expert at the Council on Foreign Relations. “They  might be correct for three months but the shale never gets destroyed.”
+
+She  said that the divergence in Saudi and Russian strategies “signals that  the relationship between Saudi Arabia and Russia is on the skids.”
+
+In a report published last month, the International Energy Agency, the Paris-based monitoring group, said the Saudis could produce more than 2  million barrels a day more while the United Arab Emirates, Kuwait and  Iraq could add roughly 1 million barrels a day between them.
+
+The crown prince’s ambitious and expensive economic development program, known as Vision 2030, could also  be in trouble, Mr. Krane said, if oil producers open the taps and beat  down prices.
+
+“A price war would cause  the Saudis to put the entire Vision 2030 diversification plan on hold,  while the kingdom hunkers down on austerity wages,” Mr. Krane said.",t2_4cr5e,False,,0,False,"Middle East Indexes all crashing, Kuwait down 10% and halted, Saudi Arabia down 8%. Aramco below IPO",[],r/investing,False,6,,0,False,t3_ffgm9t,False,dark,,public,1357,0,{},,False,[],,False,False,,{},,False,1357,,False,,1583725579.0,,[],{},,True,,1583720733.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.zerohedge.com/markets/market-bloodbath-middle-east-stocks-crater-kuwait-halted-aramco-below-ipo-dow-down-500""&gt;https://www.zerohedge.com/markets/market-bloodbath-middle-east-stocks-crater-kuwait-halted-aramco-below-ipo-dow-down-500&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;edit 2:&lt;/p&gt;
+
+&lt;p&gt;WTI futures down to &lt;del&gt;$32.5 (-20%)&lt;/del&gt;  $28 (-33%) after the futures market opened:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://m.investing.com/commodities/""&gt;https://m.investing.com/commodities/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;edit 1: NY Times article with some good info (and for those who don&amp;#39;t like ZH)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.nytimes.com/2020/03/08/business/saudi-arabia-oil-prices.html""&gt;https://www.nytimes.com/2020/03/08/business/saudi-arabia-oil-prices.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“Saudi Arabia is protecting its market position in the face of a collapse in oil demand, a shrinking physical  market and greatly reduced prices,” said Sadad al-Husseini, a former  executive vice president of Saudi Aramco. He argued that both Russia and  Saudi Arabia would “come out of this down cycle as stronger players,  while shale oil, oil sands and other costly or politically unstable  producers struggle for financing.”&lt;/p&gt;
+
+&lt;p&gt;“If  you are Russia, it’s worth it for you to take a three-month price hit  to see if you can knock out U.S. oil exports,” said Amy Myers Jaffe, an  oil and Middle East expert at the Council on Foreign Relations. “They  might be correct for three months but the shale never gets destroyed.”&lt;/p&gt;
+
+&lt;p&gt;She  said that the divergence in Saudi and Russian strategies “signals that  the relationship between Saudi Arabia and Russia is on the skids.”&lt;/p&gt;
+
+&lt;p&gt;In a report published last month, the International Energy Agency, the Paris-based monitoring group, said the Saudis could produce more than 2  million barrels a day more while the United Arab Emirates, Kuwait and  Iraq could add roughly 1 million barrels a day between them.&lt;/p&gt;
+
+&lt;p&gt;The crown prince’s ambitious and expensive economic development program, known as Vision 2030, could also  be in trouble, Mr. Krane said, if oil producers open the taps and beat  down prices.&lt;/p&gt;
+
+&lt;p&gt;“A price war would cause  the Saudis to put the entire Vision 2030 diversification plan on hold,  while the kingdom hunkers down on austerity wages,” Mr. Krane said.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffgm9t,True,,smt1,,313,True,all_ads,False,[],False,,/r/investing/comments/ffgm9t/middle_east_indexes_all_crashing_kuwait_down_10/,all_ads,False,https://www.reddit.com/r/investing/comments/ffgm9t/middle_east_indexes_all_crashing_kuwait_down_10/,945368,1583691933.0,0,,False
+,investing," 
+
+1. There is no end in sight to coronavirus, it will almost  certainly get worse every single day for the next month, if not much  longer.
+2. OPEC+ fell apart, sparking a price war and Saudi  Arabia appears to fighting some kind of internal coup. Oil is already in  a proper crash, down +20% today and 54% since early Jan.
+3. There  is no inspiring leadership anywhere. The US response is bordering on  disaster with a President that appears to have no idea what's at stake.
+4. Socially and politically, there are vulnerabilities and stresses in many countries to say the least.
+5. Bonds are already a full-scale panic, and bonds are usually right. The US 30-year just fell below 1%.
+6. Equity markets are still way overvalued, particularly in the US
+7. A global recession is likely
+
+Is  this not the greatest recipe for a 1987-style market panic that you've  ever seen? Sure, some of this is already priced in but the Fed cut rates  50 bps and kneecapped Bernie Sanders last week to try and keep the  party going but none of that really helped. The Fed can't fix this and  the psychology of the market has turned from BTFD to sell-the-rallies.  
+All  that, said, usually when someone tells you to panic, it's time to buy.  But I just don't see it. This has to get much worse before it gets  better. 
+
+[https://www.forexlive.com/news/!/the-market-is-on-the-verge-of-a-panic-20200309](https://www.forexlive.com/news/!/the-market-is-on-the-verge-of-a-panic-20200309)",t2_il5ls5e,False,,0,False,The market is on the verge of a full-scale panic,[],r/investing,False,6,,0,False,t3_ffoq1k,False,dark,,public,190,0,{},,False,[],,False,False,,{},,False,190,,False,,False,,[],{},,True,,1583754424.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;ol&gt;
+&lt;li&gt;There is no end in sight to coronavirus, it will almost  certainly get worse every single day for the next month, if not much  longer.&lt;/li&gt;
+&lt;li&gt;OPEC+ fell apart, sparking a price war and Saudi  Arabia appears to fighting some kind of internal coup. Oil is already in  a proper crash, down +20% today and 54% since early Jan.&lt;/li&gt;
+&lt;li&gt;There  is no inspiring leadership anywhere. The US response is bordering on  disaster with a President that appears to have no idea what&amp;#39;s at stake.&lt;/li&gt;
+&lt;li&gt;Socially and politically, there are vulnerabilities and stresses in many countries to say the least.&lt;/li&gt;
+&lt;li&gt;Bonds are already a full-scale panic, and bonds are usually right. The US 30-year just fell below 1%.&lt;/li&gt;
+&lt;li&gt;Equity markets are still way overvalued, particularly in the US&lt;/li&gt;
+&lt;li&gt;A global recession is likely&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Is  this not the greatest recipe for a 1987-style market panic that you&amp;#39;ve  ever seen? Sure, some of this is already priced in but the Fed cut rates  50 bps and kneecapped Bernie Sanders last week to try and keep the  party going but none of that really helped. The Fed can&amp;#39;t fix this and  the psychology of the market has turned from BTFD to sell-the-rallies.&lt;br/&gt;
+All  that, said, usually when someone tells you to panic, it&amp;#39;s time to buy.  But I just don&amp;#39;t see it. This has to get much worse before it gets  better. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.forexlive.com/news/!/the-market-is-on-the-verge-of-a-panic-20200309""&gt;https://www.forexlive.com/news/!/the-market-is-on-the-verge-of-a-panic-20200309&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffoq1k,True,,ILikeTalkn2Myself,,161,True,all_ads,False,[],False,,/r/investing/comments/ffoq1k/the_market_is_on_the_verge_of_a_fullscale_panic/,all_ads,False,https://www.reddit.com/r/investing/comments/ffoq1k/the_market_is_on_the_verge_of_a_fullscale_panic/,945368,1583725624.0,0,,False
+,investing,"lots of bulls still around. lots of people who have seen only V shape recoveries. But now we have a  Oil crash and Treasury yields at all time lows.  These are historic moves. Until the dip buyers capitulate, we will not see the bottom.",t2_3t44mx7c,False,,0,False,We will not hit a bottom until we stop hearing “buy the dip”,[],r/investing,False,6,,0,True,t3_ffu61t,False,dark,,public,34,0,{},,False,[],,False,False,,{},,False,34,,False,,False,,[],{},,True,,1583787072.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;lots of bulls still around. lots of people who have seen only V shape recoveries. But now we have a  Oil crash and Treasury yields at all time lows.  These are historic moves. Until the dip buyers capitulate, we will not see the bottom.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffu61t,True,,flyhotman,,12,False,all_ads,False,[],False,,/r/investing/comments/ffu61t/we_will_not_hit_a_bottom_until_we_stop_hearing/,all_ads,False,https://www.reddit.com/r/investing/comments/ffu61t/we_will_not_hit_a_bottom_until_we_stop_hearing/,945368,1583758272.0,0,,False
+,investing,"I just saw an ad (By RagingBull) on Youtube where they talk about ""Kyle"" who was $80k in debt but then started trading and made almost $3M in two years.  We all know it's bullshit, but isn't this type of ad very dangerous?  A lot of uneducated people could lose a lot of money with this.  Not saying this should be illegal, but shouldn't these kind of ads be regulated?",t2_p3dzx,False,,0,False,Kyle turning $15 into $2.8M in 2 years,[],r/investing,False,6,,0,False,t3_ffe8cb,False,dark,,public,1174,0,{},,False,[],,False,False,,{},,False,1174,,False,,False,,[],{},,True,,1583711005.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I just saw an ad (By RagingBull) on Youtube where they talk about &amp;quot;Kyle&amp;quot; who was $80k in debt but then started trading and made almost $3M in two years.  We all know it&amp;#39;s bullshit, but isn&amp;#39;t this type of ad very dangerous?  A lot of uneducated people could lose a lot of money with this.  Not saying this should be illegal, but shouldn&amp;#39;t these kind of ads be regulated?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffe8cb,True,,etienner,,277,True,all_ads,False,[],False,,/r/investing/comments/ffe8cb/kyle_turning_15_into_28m_in_2_years/,all_ads,False,https://www.reddit.com/r/investing/comments/ffe8cb/kyle_turning_15_into_28m_in_2_years/,945368,1583682205.0,0,,False
+,investing,,t2_4vmlalpx,False,,0,False,"Futures Market opens at -4%, Oil futures at -25%",[],r/investing,False,6,,0,False,t3_ffk9s4,False,dark,,public,340,0,{},,False,[],,False,False,,{},,False,340,,True,,False,,[],{},,True,,1583734815.0,text,6,,,text,self.investing,True,,,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffk9s4,True,,twitterisawesome,,138,True,all_ads,False,[],False,,/r/investing/comments/ffk9s4/futures_market_opens_at_4_oil_futures_at_25/,all_ads,False,https://www.reddit.com/r/investing/comments/ffk9s4/futures_market_opens_at_4_oil_futures_at_25/,945368,1583706015.0,0,,False
+,investing,ssia,t2_2egalzdl,False,,0,False,RIP Robinhood tomorrow,[],r/investing,False,6,,0,False,t3_ffo4cl,False,dark,,public,138,0,{},,False,[],,False,False,,{},,False,138,,False,,False,,[],{},,True,,1583751518.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;ssia&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffo4cl,True,,PacificCrestTrail,,21,True,all_ads,False,[],False,,/r/investing/comments/ffo4cl/rip_robinhood_tomorrow/,all_ads,False,https://www.reddit.com/r/investing/comments/ffo4cl/rip_robinhood_tomorrow/,945368,1583722718.0,0,,False
+,investing,https://www.bbc.co.uk/news/live/business-51765988,t2_1svo9o,False,,0,False,UK FTSE 100 dropped 8% on opening,[],r/investing,False,6,,0,False,t3_ffri14,False,dark,,public,48,0,{},,False,[],,False,False,,{},,False,48,,False,,False,,[],{},,True,,1583770730.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.bbc.co.uk/news/live/business-51765988""&gt;https://www.bbc.co.uk/news/live/business-51765988&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffri14,True,,ZenvixHD,,14,True,all_ads,False,[],False,,/r/investing/comments/ffri14/uk_ftse_100_dropped_8_on_opening/,all_ads,False,https://www.reddit.com/r/investing/comments/ffri14/uk_ftse_100_dropped_8_on_opening/,945368,1583741930.0,0,,False
+,investing,,t2_2aulheac,False,,0,False,Congrats r/investing! Stocks are finally going down!,[],r/investing,False,6,,0,False,t3_ffn1ge,False,dark,,public,148,0,{},,False,[],,False,False,,{},,False,148,,False,,False,,[],{},,True,,1583746740.0,text,6,,,text,self.investing,False,,,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffn1ge,True,,JelliFingaz,,73,True,all_ads,False,[],False,,/r/investing/comments/ffn1ge/congrats_rinvesting_stocks_are_finally_going_down/,all_ads,False,https://www.reddit.com/r/investing/comments/ffn1ge/congrats_rinvesting_stocks_are_finally_going_down/,945368,1583717940.0,0,,False
+,investing,"link removed to the futures website, cus reddit hug
+
+&amp;#x200B;
+
+$30 per barrel hit. one day drop of over 25%",t2_5u6zke1c,False,,0,False,Crude oil drops 25%,[],r/investing,False,6,,0,False,t3_ffk2ij,False,dark,,public,275,0,{},,False,[],,False,False,,{},,False,275,,False,,1583708640.0,,[],{},,True,,1583733984.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;link removed to the futures website, cus reddit hug&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;$30 per barrel hit. one day drop of over 25%&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffk2ij,True,,stonksmarket,,144,True,all_ads,False,[],False,,/r/investing/comments/ffk2ij/crude_oil_drops_25/,all_ads,False,https://www.reddit.com/r/investing/comments/ffk2ij/crude_oil_drops_25/,945368,1583705184.0,0,,False
+,investing,https://m.investing.com/indices/indices-futures,t2_xatsb,False,,0,False,S &amp; P futures open down 2%,[],r/investing,False,6,,0,False,t3_ffjz4x,False,dark,,public,278,0,{},,False,[],,False,False,,{},,False,278,,False,,False,,[],{},,True,,1583733618.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://m.investing.com/indices/indices-futures""&gt;https://m.investing.com/indices/indices-futures&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffjz4x,True,,clash_jeremy,,245,True,all_ads,False,[],False,,/r/investing/comments/ffjz4x/s_p_futures_open_down_2/,all_ads,False,https://www.reddit.com/r/investing/comments/ffjz4x/s_p_futures_open_down_2/,945368,1583704818.0,0,,False
+,investing,Feels like a half day at elementary school except I'm going home with a black eye and bloody nose from the class bully!,t2_i27jwat,False,,0,False,Is today going to be half day?,[],r/investing,False,6,,0,True,t3_ffuznw,False,dark,,public,14,0,{},,False,[],,False,False,,{},,False,14,,False,,False,,[],{},,True,,1583790842.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Feels like a half day at elementary school except I&amp;#39;m going home with a black eye and bloody nose from the class bully!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffuznw,True,,bai5antioxidant,,5,True,all_ads,False,[],False,,/r/investing/comments/ffuznw/is_today_going_to_be_half_day/,all_ads,False,https://www.reddit.com/r/investing/comments/ffuznw/is_today_going_to_be_half_day/,945368,1583762042.0,0,,False
+,investing,"This site is full of amateur DIY investors who have no clue how the markets or the economy work. The irrational panic that’s gripped this sub the past week is a perfect example of this. 
+
+If you’re investing for the long term, ignore the noise. Contribute more to your investments (if you can) and dollar cost average the shit out of this volatility. Irrational investor behaviour (like panic selling) has a bigger negative impact on investment returns than just about anything else in my experience. 
+
+Please don’t make your investment decisions based off someone else’s hysterical (and often uninformed) view. People don’t ever hold themselves accountable for the bad advice they give you. Ask yourself is the news today really going to matter to markets 5,10,20 years from now? In 07/08 people literally thought the world was collapsing and made life altering investment decisions based on that and look how far markets have come. 
+
+Please ignore the hysteria and invest for your time horizon, not for what the market does today.",t2_l9j74,False,,0,False,Please don’t make investment decisions based on advice from Reddit forums,[],r/investing,False,6,,0,True,t3_ffuvrc,False,dark,,public,19,0,{},,False,[],,False,False,,{},,False,19,,True,,False,,[],{},,True,,1583790356.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;This site is full of amateur DIY investors who have no clue how the markets or the economy work. The irrational panic that’s gripped this sub the past week is a perfect example of this. &lt;/p&gt;
+
+&lt;p&gt;If you’re investing for the long term, ignore the noise. Contribute more to your investments (if you can) and dollar cost average the shit out of this volatility. Irrational investor behaviour (like panic selling) has a bigger negative impact on investment returns than just about anything else in my experience. &lt;/p&gt;
+
+&lt;p&gt;Please don’t make your investment decisions based off someone else’s hysterical (and often uninformed) view. People don’t ever hold themselves accountable for the bad advice they give you. Ask yourself is the news today really going to matter to markets 5,10,20 years from now? In 07/08 people literally thought the world was collapsing and made life altering investment decisions based on that and look how far markets have come. &lt;/p&gt;
+
+&lt;p&gt;Please ignore the hysteria and invest for your time horizon, not for what the market does today.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffuvrc,True,,NineteenEighty9,,15,True,all_ads,False,[],False,,/r/investing/comments/ffuvrc/please_dont_make_investment_decisions_based_on/,all_ads,False,https://www.reddit.com/r/investing/comments/ffuvrc/please_dont_make_investment_decisions_based_on/,945368,1583761556.0,0,,False
+,investing,"Quick rundown:
+
+- $32 oil (down 20%) ; Canadian dollar collapses due to oil crash
+
+- US futures down 4.5%
+
+- US 10 year sinks below 0.5% for the first time ever, market pricing in 1/5 chance of 3/18 rate cut to 0-25 bps
+
+Wow, everything is starting to get really scary. The only thing I can think of is: buy the Canadian dollar and oil stocks when oil goes down to &lt;$25 a barrel.
+
+It is possible that we may limit down 7% on all of the US stock indices shortly after 9:30 AM open tomorrow, creating the 21^st century's own Black Monday (worse than August 24, 2015 or February 5, 2018).
+
+Yes, be greedy when others are fearful and be fearful when others are greedy. But, stocks are still way too high for people with lots of cash on the sidelines. We really need something like 15X P/E for markets to be considered ""Buy"". Also, if US 30 year bond yields hit 0%, it may be time to short bonds because the Federal Reserve does not like negative rates.
+
+EDIT: I will probably buy Canadian dollars tomorrow. Oil has dropped too far, too fast. It lost like 40% of its value in 1 day. There is no way the Canadian dollar will go much lower now.
+
+XLE in the US and XEG in Canada will crater to the center of the Earth when markets open tomorrow.",t2_4gg1g024,False,,0,False,Things are starting to look worse than 2008...,[],r/investing,False,6,,0,False,t3_ffmhkl,False,dark,,public,142,0,{},,False,[],,False,False,,{},,False,142,,False,,1583725985.0,,[],{},,True,,1583744265.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Quick rundown:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;$32 oil (down 20%) ; Canadian dollar collapses due to oil crash&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;US futures down 4.5%&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;US 10 year sinks below 0.5% for the first time ever, market pricing in 1/5 chance of 3/18 rate cut to 0-25 bps&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wow, everything is starting to get really scary. The only thing I can think of is: buy the Canadian dollar and oil stocks when oil goes down to &amp;lt;$25 a barrel.&lt;/p&gt;
+
+&lt;p&gt;It is possible that we may limit down 7% on all of the US stock indices shortly after 9:30 AM open tomorrow, creating the 21&lt;sup&gt;st&lt;/sup&gt; century&amp;#39;s own Black Monday (worse than August 24, 2015 or February 5, 2018).&lt;/p&gt;
+
+&lt;p&gt;Yes, be greedy when others are fearful and be fearful when others are greedy. But, stocks are still way too high for people with lots of cash on the sidelines. We really need something like 15X P/E for markets to be considered &amp;quot;Buy&amp;quot;. Also, if US 30 year bond yields hit 0%, it may be time to short bonds because the Federal Reserve does not like negative rates.&lt;/p&gt;
+
+&lt;p&gt;EDIT: I will probably buy Canadian dollars tomorrow. Oil has dropped too far, too fast. It lost like 40% of its value in 1 day. There is no way the Canadian dollar will go much lower now.&lt;/p&gt;
+
+&lt;p&gt;XLE in the US and XEG in Canada will crater to the center of the Earth when markets open tomorrow.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffmhkl,True,,random20190826,,262,True,all_ads,False,[],False,,/r/investing/comments/ffmhkl/things_are_starting_to_look_worse_than_2008/,all_ads,False,https://www.reddit.com/r/investing/comments/ffmhkl/things_are_starting_to_look_worse_than_2008/,945368,1583715465.0,0,,False
+,investing,"https://twitter.com/carlquintanilla/status/1236806316032692225
+
+Didn't even know there was a limit to futures.",t2_tpiy570,False,,0,False,"Futures halt trading, trading limit reached",[],r/investing,False,6,,0,False,t3_fflxmq,False,dark,,public,149,0,{},,False,[],,False,False,,{},,False,149,,False,,1583713967.0,,[],{},,True,,1583741822.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://twitter.com/carlquintanilla/status/1236806316032692225""&gt;https://twitter.com/carlquintanilla/status/1236806316032692225&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Didn&amp;#39;t even know there was a limit to futures.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fflxmq,True,,GloBoy54,,57,True,all_ads,False,[],False,,/r/investing/comments/fflxmq/futures_halt_trading_trading_limit_reached/,all_ads,False,https://www.reddit.com/r/investing/comments/fflxmq/futures_halt_trading_trading_limit_reached/,945368,1583713022.0,0,,False
+,investing,First blood on the streets already out by the aussies.,t2_505jf65t,False,,0,False,"S&amp;P/ASX 200 closed at -7,33%",[],r/investing,False,6,,0,False,t3_ffpxws,False,dark,,public,52,0,{},,False,[],,False,False,,{},,False,52,,False,,False,,[],{},,True,,1583760796.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;First blood on the streets already out by the aussies.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffpxws,True,,Braconomist,,9,True,all_ads,False,[],False,,/r/investing/comments/ffpxws/spasx_200_closed_at_733/,all_ads,False,https://www.reddit.com/r/investing/comments/ffpxws/spasx_200_closed_at_733/,945368,1583731996.0,0,,False
+,investing,"With another red Monday expected tomorrow, I just wanted to offer this reminder:  If you have a personal Investment Policy Statement or maintain target Asset Allocation, this is *exactly* what you have been training for.  Stay the course - you can handle this!",t2_kitby,False,,0,False,Hold on to your hats - It’s gut-check time!,[],r/investing,False,6,,0,False,t3_fflk39,False,dark,,public,124,0,{},,False,[],,False,False,,{},,False,124,,False,,False,,[],{},,True,,1583740174.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;With another red Monday expected tomorrow, I just wanted to offer this reminder:  If you have a personal Investment Policy Statement or maintain target Asset Allocation, this is &lt;em&gt;exactly&lt;/em&gt; what you have been training for.  Stay the course - you can handle this!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fflk39,True,,SportsKin9,,94,True,all_ads,False,[],False,,/r/investing/comments/fflk39/hold_on_to_your_hats_its_gutcheck_time/,all_ads,False,https://www.reddit.com/r/investing/comments/fflk39/hold_on_to_your_hats_its_gutcheck_time/,945368,1583711374.0,0,,False
+,investing, [https://www.barrons.com/articles/is-the-stock-market-crashing-heres-when-s-p-500-circuit-breakers-kick-in-51583717721](https://www.barrons.com/articles/is-the-stock-market-crashing-heres-when-s-p-500-circuit-breakers-kick-in-51583717721),t2_hhoo9,False,,0,False,Stock Futures Were Halted Sunday Night. Here’s When S&amp;P 500 Circuit Breakers Kick In on Monday,[],r/investing,False,6,,0,False,t3_ffngt9,False,dark,,public,78,0,{},,False,[],,False,False,,{},,False,78,,True,,False,,[],{},,True,,1583748603.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.barrons.com/articles/is-the-stock-market-crashing-heres-when-s-p-500-circuit-breakers-kick-in-51583717721""&gt;https://www.barrons.com/articles/is-the-stock-market-crashing-heres-when-s-p-500-circuit-breakers-kick-in-51583717721&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffngt9,True,,diddycarter,,34,False,all_ads,False,[],False,,/r/investing/comments/ffngt9/stock_futures_were_halted_sunday_night_heres_when/,all_ads,False,https://www.reddit.com/r/investing/comments/ffngt9/stock_futures_were_halted_sunday_night_heres_when/,945368,1583719803.0,0,,False
+,investing,,t2_2odey0cc,False,,0,False,"I don’t see any discussion in regards to South Korea coming out with a death rate of .6%, a place there is more widespread testing. Seems like US and others have high death rates due to low testing rates. I know this doesn’t play into the doom, gloom and buy my puts but think it’s worth knowing",[],r/investing,False,6,,0,False,t3_fftpbo,False,dark,,public,14,0,{},,False,[],,False,False,,{},,False,14,,False,,False,,[],{},,True,,1583784672.0,text,6,,,text,self.investing,False,,,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fftpbo,True,,RamblinMans,,21,True,all_ads,False,[],False,,/r/investing/comments/fftpbo/i_dont_see_any_discussion_in_regards_to_south/,all_ads,False,https://www.reddit.com/r/investing/comments/fftpbo/i_dont_see_any_discussion_in_regards_to_south/,945368,1583755872.0,0,,False
+,investing,I read that the circuit breaker has been invoked three times in the last decade. Can anyone with insight or references discuss how the market reacted after trading resumed?,t2_615xh,False,,0,False,"Historically, how has the US market performed immediately upon resumption of trading after invoking the circuit breaker?",[],r/investing,False,6,,0,False,t3_ffs8ws,False,dark,,public,17,0,{},,False,[],,False,False,,{},,False,17,,False,,False,,[],{},,True,,1583775875.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I read that the circuit breaker has been invoked three times in the last decade. Can anyone with insight or references discuss how the market reacted after trading resumed?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffs8ws,True,,VictorVanguard,,3,True,all_ads,False,[],False,,/r/investing/comments/ffs8ws/historically_how_has_the_us_market_performed/,all_ads,False,https://www.reddit.com/r/investing/comments/ffs8ws/historically_how_has_the_us_market_performed/,945368,1583747075.0,0,,False
+,investing,As of 3:46 AM eastern,t2_8rmpi,False,,0,False,"Premarket SPY trading points to -6.73% open, near circuit breaker trigger",[],r/investing,False,6,,0,False,t3_ffr7s6,False,dark,,public,25,0,{},,False,[],,False,False,,{},,False,25,,False,,False,,[],{},,True,,1583768826.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;As of 3:46 AM eastern&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffr7s6,True,,ryeander,,14,True,all_ads,False,[],False,,/r/investing/comments/ffr7s6/premarket_spy_trading_points_to_673_open_near/,all_ads,False,https://www.reddit.com/r/investing/comments/ffr7s6/premarket_spy_trading_points_to_673_open_near/,945369,1583740026.0,0,,False
+,investing,"With markets limit down 5% in futures trading, oil down almost 26% right now, and no real resolution of any of the items worrying markets, it's understandable that we're getting a **lot** of posts on here discussing going to cash, selling, reducing risk, etc.
+
+I'm not going to argue against the merits of going to cash as I've had a fairly negative view of market risk and fragility over the past 1-2 years, but I think it's critical to mention that if you do plan to do this, you NEED to have a plan for how to get back into markets. Most people trying to do this type of thing are just going to get whipsawed around by volatility, and end up losing more than they would by just staying long.
+
+**But if you want to go to cash...**
+
+* You really don't want to be the guy who has been holding cash for 5 years as the market recovers, thinking that we're due for another enormous leg down in markets. (IE, the friend who has been in cash since 2016 persona)
+* Similarly, you don't want to panic buy back in as we see a volatility induced bull trap causing you to buy back in after a 3% rally, only for further drops to cause you to then sell lower after buying higher.
+
+The main point here, is you don't want to get whipsawed by highly volatile markets, and you also don't want to just completely sit on your hands and do nothing over the next 5 years.
+
+**Have Some Rules or Something At Least Somewhat Quantitative**
+
+It doesn't even have to be a great system or anything complex. But if you're just going with your gut, your feelings, or your emotions, you are going to get torn to shreds in any bear market. Highly volatile markets see dramatic price movements, shift momentum extremely fast, and do not always make a lot of fundamental sense.
+
+* Do some research on past bear markets, and then have a plan for how to buy back in, and what to do when the market seems like it may not be going the way you though it would when you re-purchased lower.
+* Have a pre-defined time frame. If you're a day trader, your time frame will obviously be way different than long term investors. It's okay to have different time frames for different things, just know in advance what your plan is.
+* Don't freak out over taking some losses and lose sight over what your process is. Expect to take some losses, but come out ahead on average if your process is sound in the first place.
+* You are going to be at the mercy of your process. If you don't feel confident in your plan, consider just DCA'ing, or switching to a much more durable all-weather type portfolio. Keep in mind, most plans are based on some type of recency bias. IE, they may not work in the current market because things are always somewhat different.
+* IF you're building some rules around buying back in, try to have it be consistent with the rest of your investing strategy. If you're a value investor, keep value investing - have rules around what valuations you expect to see before repurchasing. Technical investor, have rules set for whatever you use. You may even get better results when you overlay multiple rules together to form a more robust framework.
+
+**So overall, TLDR**, if you're going to be bearish or if you're going to try to avoid a potential bear market, having a process for re-allocating to risk is just as important for being successful as is trying to get out before a bigger drop. If you can't figure this out, it's probably better to find a solid portfolio you allocation you can trust in turbulent times, and dollar cost average in.",t2_azt0x,False,,0,False,"Just a tip: For those thinking about selling, have a pre-defined plan for getting back into the markets.",[],r/investing,False,6,,0,False,t3_ffom8m,False,dark,,public,46,0,{},,False,[],,False,False,,{},,False,46,,False,,1583725387.0,,[],{},,True,,1583753906.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;With markets limit down 5% in futures trading, oil down almost 26% right now, and no real resolution of any of the items worrying markets, it&amp;#39;s understandable that we&amp;#39;re getting a &lt;strong&gt;lot&lt;/strong&gt; of posts on here discussing going to cash, selling, reducing risk, etc.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m not going to argue against the merits of going to cash as I&amp;#39;ve had a fairly negative view of market risk and fragility over the past 1-2 years, but I think it&amp;#39;s critical to mention that if you do plan to do this, you NEED to have a plan for how to get back into markets. Most people trying to do this type of thing are just going to get whipsawed around by volatility, and end up losing more than they would by just staying long.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But if you want to go to cash...&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You really don&amp;#39;t want to be the guy who has been holding cash for 5 years as the market recovers, thinking that we&amp;#39;re due for another enormous leg down in markets. (IE, the friend who has been in cash since 2016 persona)&lt;/li&gt;
+&lt;li&gt;Similarly, you don&amp;#39;t want to panic buy back in as we see a volatility induced bull trap causing you to buy back in after a 3% rally, only for further drops to cause you to then sell lower after buying higher.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The main point here, is you don&amp;#39;t want to get whipsawed by highly volatile markets, and you also don&amp;#39;t want to just completely sit on your hands and do nothing over the next 5 years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have Some Rules or Something At Least Somewhat Quantitative&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It doesn&amp;#39;t even have to be a great system or anything complex. But if you&amp;#39;re just going with your gut, your feelings, or your emotions, you are going to get torn to shreds in any bear market. Highly volatile markets see dramatic price movements, shift momentum extremely fast, and do not always make a lot of fundamental sense.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Do some research on past bear markets, and then have a plan for how to buy back in, and what to do when the market seems like it may not be going the way you though it would when you re-purchased lower.&lt;/li&gt;
+&lt;li&gt;Have a pre-defined time frame. If you&amp;#39;re a day trader, your time frame will obviously be way different than long term investors. It&amp;#39;s okay to have different time frames for different things, just know in advance what your plan is.&lt;/li&gt;
+&lt;li&gt;Don&amp;#39;t freak out over taking some losses and lose sight over what your process is. Expect to take some losses, but come out ahead on average if your process is sound in the first place.&lt;/li&gt;
+&lt;li&gt;You are going to be at the mercy of your process. If you don&amp;#39;t feel confident in your plan, consider just DCA&amp;#39;ing, or switching to a much more durable all-weather type portfolio. Keep in mind, most plans are based on some type of recency bias. IE, they may not work in the current market because things are always somewhat different.&lt;/li&gt;
+&lt;li&gt;IF you&amp;#39;re building some rules around buying back in, try to have it be consistent with the rest of your investing strategy. If you&amp;#39;re a value investor, keep value investing - have rules around what valuations you expect to see before repurchasing. Technical investor, have rules set for whatever you use. You may even get better results when you overlay multiple rules together to form a more robust framework.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;So overall, TLDR&lt;/strong&gt;, if you&amp;#39;re going to be bearish or if you&amp;#39;re going to try to avoid a potential bear market, having a process for re-allocating to risk is just as important for being successful as is trying to get out before a bigger drop. If you can&amp;#39;t figure this out, it&amp;#39;s probably better to find a solid portfolio you allocation you can trust in turbulent times, and dollar cost average in.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffom8m,True,,cbus20122,,6,True,all_ads,False,[],False,,/r/investing/comments/ffom8m/just_a_tip_for_those_thinking_about_selling_have/,all_ads,False,https://www.reddit.com/r/investing/comments/ffom8m/just_a_tip_for_those_thinking_about_selling_have/,945369,1583725106.0,0,,False
+,investing,How is this going to affect the market on top of the oil war?,t2_zwbk87,False,,0,False,10 Year Treasury falls another 20 basis points to near 0.5%.,[],r/investing,False,6,,0,False,t3_ffli3y,False,dark,,public,92,0,{},,False,[],,False,False,,{},,False,92,,False,,False,,[],{},,True,,1583739937.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;How is this going to affect the market on top of the oil war?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffli3y,True,,ConcreteCrusher,,42,True,all_ads,False,[],False,,/r/investing/comments/ffli3y/10_year_treasury_falls_another_20_basis_points_to/,all_ads,False,https://www.reddit.com/r/investing/comments/ffli3y/10_year_treasury_falls_another_20_basis_points_to/,945369,1583711137.0,0,,False
+,investing,"50 year old male. I have a retirement account set up through a national broker. Two weeks ago the balance sat at about $122,000 today it is at $112,000. Almost daily I get emails from the national broker saying to stay in. Is this good advice? Should I pull out some or most of it? What should I do with it? Money market, bonds, other? Thanks",t2_mfdzw,False,,0,False,Get out of the market?,[],r/investing,False,6,,0,False,t3_ffna3p,False,dark,,public,63,0,{},,False,[],,False,False,,{},,False,63,,False,,False,,[],{},,True,,1583747803.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;50 year old male. I have a retirement account set up through a national broker. Two weeks ago the balance sat at about $122,000 today it is at $112,000. Almost daily I get emails from the national broker saying to stay in. Is this good advice? Should I pull out some or most of it? What should I do with it? Money market, bonds, other? Thanks&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffna3p,True,,paddiewack,,105,True,all_ads,False,[],False,,/r/investing/comments/ffna3p/get_out_of_the_market/,all_ads,False,https://www.reddit.com/r/investing/comments/ffna3p/get_out_of_the_market/,945369,1583719003.0,0,,False
+,investing,"Since we’re in the middle of a correction, I thought we’d all share our worst investments to lessen (or maybe heighten) the mood.",t2_21nxcabm,False,,0,False,What are your worst investment losses?,[],r/investing,False,6,,0,False,t3_fftfhl,False,dark,,public,8,0,{},,False,[],,False,False,,{},,False,8,,False,,False,,[],{},,True,,1583783173.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Since we’re in the middle of a correction, I thought we’d all share our worst investments to lessen (or maybe heighten) the mood.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fftfhl,True,,imjustawolf,,30,True,all_ads,False,[],False,,/r/investing/comments/fftfhl/what_are_your_worst_investment_losses/,all_ads,False,https://www.reddit.com/r/investing/comments/fftfhl/what_are_your_worst_investment_losses/,945369,1583754373.0,0,,False
+,investing,"The S&amp;P 500 might open 4% lower on monday if this stays as it is.  Brace yourselves guys, it's gonna be a fun ride!",t2_p3dzx,False,,0,False,"Dow futures down 1,000 points",[],r/investing,False,6,,0,False,t3_fflejx,False,dark,,public,84,0,{},,False,[],,False,False,,{},,False,84,,False,,False,,[],{},,True,,1583739502.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;The S&amp;amp;P 500 might open 4% lower on monday if this stays as it is.  Brace yourselves guys, it&amp;#39;s gonna be a fun ride!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fflejx,True,,etienner,,26,True,all_ads,False,[],False,,/r/investing/comments/fflejx/dow_futures_down_1000_points/,all_ads,False,https://www.reddit.com/r/investing/comments/fflejx/dow_futures_down_1000_points/,945369,1583710702.0,0,,False
+,investing,"More news:
+
+https://www.nasdaq.com/articles/stock-futures-were-halted-sunday-night.-heres-when-sp-500-circuit-breakers-would-kick-in",t2_4wa9mlhb,False,,0,False,Stock Futures Were Halted Sunday Night. Here's When S&amp;P 500 Circuit-Breakers Would Kick In on Monday.,[],r/investing,False,6,,0,False,t3_ffnrtz,False,dark,,public,44,0,{},,False,[],,False,False,,{},,False,44,,False,,False,,[],{},,True,,1583749966.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;More news:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.nasdaq.com/articles/stock-futures-were-halted-sunday-night.-heres-when-sp-500-circuit-breakers-would-kick-in""&gt;https://www.nasdaq.com/articles/stock-futures-were-halted-sunday-night.-heres-when-sp-500-circuit-breakers-would-kick-in&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffnrtz,True,,KingofSwansea,,8,False,all_ads,False,[],False,,/r/investing/comments/ffnrtz/stock_futures_were_halted_sunday_night_heres_when/,all_ads,False,https://www.reddit.com/r/investing/comments/ffnrtz/stock_futures_were_halted_sunday_night_heres_when/,945369,1583721166.0,0,,False
+,investing,"From a geopolitical standpoint, I'm all for other countries pumping oil like drunken sailors when it is cheap.  US oil isn't going anywhere and it will be worth much more in dollar terms and in geopolitical power terms 10 years from now than it is today.
+
+First, understand that certain types of world oil production are really expensive to turn off and turn back on (Siberian oil and off shore production comes to mind) because of the environment (supposedly, siberian wells will need to be redrilled if they stop producing) and the complexity of the drilling and production operation. You can't just say ""lets abandon this deep water drilling rig for 36 months"" and then come back and flip a switch, especially when you're leasing that rig.  
+
+Second, understand that, in relative terms, it is easy to restart shale production, ***when the price is right.***  In real terms, most shale probably needs a $100/barrel price to be solidly profitable, but it is relatively cheap to get production started. The United States has a really good court system, that combined with the financial system, makes it relatively easy for shale leases and equipment to be sold in bankruptcy proceedings and ""stored"" until needed. Thus, the cost to shut down and restart shale production is relatively cheap.
+
+Oil has been a source of geopolitical power since the 30s.  Yemen is Saudi Arabia without oil - think about that for a moment.  Oil is why Japan attacked the US, Brits, and Netherlands.  Oil is why Germany attacked the Soviets.  Oil is why 70s economies crashed.  Oil is why the US is friendly too monarchies and dictatorial governments in the middle east.  Oil is simply necessary to project any military power and military power is ultimately the backing which moves geopolitical politics.  
+
+The US has plenty of oil available, but it has almost no cheap ($30/barrel) oil available.  Thus, producing oil at these prices means the US is not only losing money by doing so, but it is also reducing its reserves and ability to project power in the future.  
+
+Meanwhile, when other countries are reducing their reserves, they are reducing their future ability to project geopolitical power.  The Middle East, without cheaply produced oil, was and eventually will be a completely different place.  Russia, without cheaply produced oil, loses its ability to project power regionally.  Even China will change once cheap oil is no longer produced as it will become more expensive to produce goods and to ship exports.",t2_6pvo3,False,,0,False,"Cheap oil is great for the United States long-term, despite the short-term issues of the shale industry getting hammered",[],r/investing,False,6,,0,True,t3_ffv0r0,False,dark,,public,5,0,{},,False,[],,False,False,,{},,False,5,,True,,False,,[],{},,True,,1583790973.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;From a geopolitical standpoint, I&amp;#39;m all for other countries pumping oil like drunken sailors when it is cheap.  US oil isn&amp;#39;t going anywhere and it will be worth much more in dollar terms and in geopolitical power terms 10 years from now than it is today.&lt;/p&gt;
+
+&lt;p&gt;First, understand that certain types of world oil production are really expensive to turn off and turn back on (Siberian oil and off shore production comes to mind) because of the environment (supposedly, siberian wells will need to be redrilled if they stop producing) and the complexity of the drilling and production operation. You can&amp;#39;t just say &amp;quot;lets abandon this deep water drilling rig for 36 months&amp;quot; and then come back and flip a switch, especially when you&amp;#39;re leasing that rig.  &lt;/p&gt;
+
+&lt;p&gt;Second, understand that, in relative terms, it is easy to restart shale production, &lt;strong&gt;&lt;em&gt;when the price is right.&lt;/em&gt;&lt;/strong&gt;  In real terms, most shale probably needs a $100/barrel price to be solidly profitable, but it is relatively cheap to get production started. The United States has a really good court system, that combined with the financial system, makes it relatively easy for shale leases and equipment to be sold in bankruptcy proceedings and &amp;quot;stored&amp;quot; until needed. Thus, the cost to shut down and restart shale production is relatively cheap.&lt;/p&gt;
+
+&lt;p&gt;Oil has been a source of geopolitical power since the 30s.  Yemen is Saudi Arabia without oil - think about that for a moment.  Oil is why Japan attacked the US, Brits, and Netherlands.  Oil is why Germany attacked the Soviets.  Oil is why 70s economies crashed.  Oil is why the US is friendly too monarchies and dictatorial governments in the middle east.  Oil is simply necessary to project any military power and military power is ultimately the backing which moves geopolitical politics.  &lt;/p&gt;
+
+&lt;p&gt;The US has plenty of oil available, but it has almost no cheap ($30/barrel) oil available.  Thus, producing oil at these prices means the US is not only losing money by doing so, but it is also reducing its reserves and ability to project power in the future.  &lt;/p&gt;
+
+&lt;p&gt;Meanwhile, when other countries are reducing their reserves, they are reducing their future ability to project geopolitical power.  The Middle East, without cheaply produced oil, was and eventually will be a completely different place.  Russia, without cheaply produced oil, loses its ability to project power regionally.  Even China will change once cheap oil is no longer produced as it will become more expensive to produce goods and to ship exports.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffv0r0,True,,an_actual_lawyer,,3,True,all_ads,False,[],False,,/r/investing/comments/ffv0r0/cheap_oil_is_great_for_the_united_states_longterm/,all_ads,False,https://www.reddit.com/r/investing/comments/ffv0r0/cheap_oil_is_great_for_the_united_states_longterm/,945369,1583762173.0,0,,False
+,investing,https://www.newyorkfed.org/markets/opolicy/operating_policy_200309,t2_1piqzxy9,False,,0,False,"NY Fed: Beginning with today’s operation and through March 12, 2020, the Desk will increase the amount offered in daily overnight repo operations from at least $100 billion to at least $150 billion.",[],r/investing,False,6,,0,True,t3_ffu42p,False,dark,,public,6,0,{},,False,[],,False,False,,{},,False,6,,False,,False,,[],{},,True,,1583786792.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.newyorkfed.org/markets/opolicy/operating_policy_200309""&gt;https://www.newyorkfed.org/markets/opolicy/operating_policy_200309&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffu42p,True,,pacosteles,,10,True,all_ads,False,[],False,,/r/investing/comments/ffu42p/ny_fed_beginning_with_todays_operation_and/,all_ads,False,https://www.reddit.com/r/investing/comments/ffu42p/ny_fed_beginning_with_todays_operation_and/,945369,1583757992.0,0,,False
+,investing,Not even in the depths of the financial crisis was things this bad on the sunday open. Monday will be very interesting. Personal belief is the cash market doesn't follow suit and futures come off their low.,t2_5vo1dh35,False,,0,False,"540,000 sell orders to 7,300 buy orders in ES @ lock limit down",[],r/investing,False,6,,0,False,t3_ffo58j,False,dark,,public,36,0,{},,False,[],,False,False,,{},,False,36,,False,,False,,[],{},,True,,1583751649.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Not even in the depths of the financial crisis was things this bad on the sunday open. Monday will be very interesting. Personal belief is the cash market doesn&amp;#39;t follow suit and futures come off their low.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffo58j,True,,RedAlert2020,,19,True,all_ads,False,[],False,,/r/investing/comments/ffo58j/540000_sell_orders_to_7300_buy_orders_in_es_lock/,all_ads,False,https://www.reddit.com/r/investing/comments/ffo58j/540000_sell_orders_to_7300_buy_orders_in_es_lock/,945369,1583722849.0,0,,False
+,investing,"I saw that there isn't any posts discussing about the problems about supply chains on r/investing, so I decided to put supply chain DD post here too
+
+Tl;dr : Shortage are happening everywhere for both individuals and businesses, things are bad.
+
+Liquidity problems for many businesses may lead to bankruptcies =banks loans default=Financial problems again
+
+Extreme uncertainty as regions could get quarantine(Italy), virus is spreading rapidly in Europe/US and causing many shutdowns
+
+Just stay out of the market or short stocks on everything except health care, funeral, tech sector
+
+&amp;#x200B;
+
+Last week I share an article on WSB about the supply chains problems in China last week which you could find at the resource section, I previously said that the article haven't even accounted about a potential outbreak may lead to Europe and US factories being shutdown causing a longer supply chain shortage.
+
+I originally estimate that there might be shut downs not earlier than Mid March, now look at Italy and a 14 mil region already got shut down and we are not even at Mid March yet.
+
+Ports in LA has been half empty since Mar 3, a twitter post says that usually there are 5 trains a day out of there, now down to 32. Usually has 16,000 trucks in the port, that's down by half.
+
+You think shit is real but things should get back normal in Mid March and china should be pumping those industrial goods now? Dead Wrong.
+
+China could only make low to semi mid tier tech grade items, since factories are reopen back around Early March they could still use those stored inventory from Jan. But if you want to assemble an more high tech stuff like Iphone you would need parts from at least from Germany,Switzerland, Japan, US and Chinese components take a look at the pic to get an idea [here](https://www.lifewire.com/thmb/GN0t3RvvmWfWdoHYlgJGEe0c-ys=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Where_Is_The_Iphone_Made_1999503_V2-345d781fed0b48909b2fc5c6b52ff325.png) , but factories from everywhere is closing/got infected/needs quarantine at an unprecedented rate.
+
+Here are some examples:
+
+&amp;#x200B;
+
+Japan Has shut down its F35 factory in Mar 4 (An italy factory also shutdown too) [here](https://www.defenseone.com/business/2020/03/f-35-factory-japan-shuts-down-amid-coronavirus-outbreak/163505/)
+
+Korea car factory shut down [here](https://pulsenews.co.kr/view.php?sc=30800028&amp;year=2020&amp;no=222523)
+
+Samsung Wants to move its factories to Vietnam for making parts for its smartphone, but it turns out that A London-Hanoi flight has caused the beer virus to spread in Vietnam right now, things are not looking good. [here](https://www.reuters.com/article/us-health-coronavirus-samsung-elec/samsung-to-shift-some-smartphone-production-to-vietnam-due-to-coronavirus-idUSKBN20T10T) and [here](https://www.bloomberg.com/news/articles/2020-03-08/virus-outbreak-tied-to-london-hanoi-flight-rattles-vietnam)
+
+&amp;#x200B;
+
+The last supply chain shock to the globe was from the earthquake that hit Japan in 2011, so most CEOs who wants to cut costs and pump their stock price has already switch to JIT and the earthquake was just a single country shock, and nobody expect a bloody global supply chain collapse since there isn't one before in history.
+
+Currently most companies across the globe are facing the problem of not having inventory since the Chinese factories shut down in late Jan as most only runs on 15-30 day inventory.
+
+While a report says that A total of 78 million Chinese migrant rural workers have already returned to work, accounting for 60% of the total who left for home for the Chinese New Year holiday [here](https://www.reuters.com/article/us-health-coronavirus-workers/china-says-78-million-migrant-rural-workers-have-returned-to-work-idUSKBN20U0A0).
+
+But Chinese companies are still mostly producing from inventory left from Jan, as they just open back their factories and ordering new supplies would likely take at least 1 week for factories to resume production if they run out of materials. Hubei is still in shutdown, there are also reports about reopening factories but no one is working and they just turn on the equipment as to satisfy the electricity quotas set by the officials [here](https://www.zerohedge.com/economics/lights-are-no-ones-working-how-china-faking-coronavirus-recovery)
+
+People with beer virus suddenly falls down and the factory could got shut down [vid](https://twitter.com/SYC999/status/1236072794473074690)
+
+I predict that China may get back to 50% production capacity for things that doesn't need external exports in late March - Early April.
+
+Did I even talk about the second wave of disruption coming to Chinese factories? [here](https://www.reuters.com/article/us-health-coronavirus-china-factories/chinas-factories-at-risk-of-double-whammy-as-coronavirus-hits-south-korea-japan-idUSKBN20P21I)
+
+&amp;#x200B;
+
+So, you may say things are bad but those air freight could transport shit to other countries fast, right?
+
+Maybe, the air freight market is acting like WSB and the price is as volatile as the VIX index, the price for air freight also seems to be doubled. [pic here](https://theloadstar.com/wp-content/uploads/china-ustac.png)
+
+Also, Sea freights which consists of 90% of global freight trade would take like a month for transporting stuff.
+
+Most factories in Europe and US would wait to April - early May (which they mostly alreday run out of inventory for 1-3 months) for Cargo ship to arrive to the ports, and so you may think they could finally get their long waited inventory. Cheers Right? No Again
+
+&amp;#x200B;
+
+Remember there is a Italy lock down?
+
+Hubei is still in lock down since late Jan and still haven't been reopen yet.
+
+Let's assume that things are better in Italy and it would take a month to reopen back, but what would happen to nearby regions and countries like in southern Italy,Germany, France,Switzerland? France and German already has 1000 cases.
+
+If the rate of increase continues as the expected projection, it seems that they would also be in lock down and those lock down would never could be as effective as in china.
+
+So even northern Italy reopens in a month it would still impossible to reopen business since other nearby regions would be likely in their own lock down as well.
+
+This is due to the fact the virus spread faster than any flu virus we have seen before which is at around 2.2-2.68 rate, this is higher than the h1n1 flu of 1.46, and the beer virus is likely more deadly as the Spanish Flu (but maybe due to much higher old population than any time in history), you could look about the comparison [here](https://en.wikipedia.org/wiki/Template:Notable_flu_pandemics) (thanks for the covid dd post)
+
+This is like an endless feedback loop and until a cure or a vaccine comes out(which should take more than a year), things would mostly get worse.
+
+&amp;#x200B;
+
+Conclusion:
+
+So you could see how bad the supply chain problem is , the collapse of the supply chain would cause many business to shut down and debts defaults for both consumer and businesses.
+
+Europe and Japan are already in negative rates, they are already not profitable and lower rates would likely to cause the banks unable to profit from business services and cause a financial collapse again.
+
+You could see my other post talking about the liquidity problem, the repo market problem and Deutsche Bank , if you are interested on supply chain problems you could follow [r/supplychain](https://www.reddit.com/r/supplychain/) for further updates (Both posts are attached below at the resources part)
+
+&amp;#x200B;
+
+Extra 1: [hey\_ross](https://www.reddit.com/user/hey_ross/) says about the shale oil debt is gonna explode due to the amount of debt, which is true:
+
+A.because the supply chains are collapsing and factories/China won't need that much oil, two months for like 50% drop of oil demand could already lower the oil price ;
+
+B.The shale oil industry just got 911 by the Russians and the Saudis and they are unable to be break even below 50, now the price is just 30 so a 40% decline of revenue for those shale oil companies [pic](https://www.dallasfed.org/research/economics/2019/~/media/Images/research/economics/2019/0521/0521c1.png)
+
+C. Shale oil was already having problems since 2018 and has around 200 billion debts.
+
+As of the end of 2018, so this number is a little bit old, we’ve spent about $1 trillion in U.S. oil shale and we’ve returned about $700 billion to the companies in the form of cash flow for a whopping, negative 38% cash-on-cash return, The total return to shareholders in the sector in the last decade was effectively zero [here](http://www.startribune.com/schafer-shale-oil-passed-its-peak-without-making-money/567884742/)
+
+Extra 2: Someone in WSB says the fundamentals remain and my post is just fear.
+
+The Fundamentals as of now are Northern Italy just got quarantine with a 14 mil population,Industries are stopping and labour,materials could not flow freely.
+
+The Industrial Triangle of Italy just got quarantine,The quarantine will take over the Italian economic zones. About a third of the national gross domestic product (GDP) comes from the regions of Lombardy and Veneto. According to the financial service company Moody's, Italy's GDP will decrease by 0.5 percent this year. [https://www.aljazeera.com/news/2020/03/italy-quarantines-quarter-population-fight-coronavirus-200308071832617.html](https://www.aljazeera.com/news/2020/03/italy-quarantines-quarter-population-fight-coronavirus-200308071832617.html)
+
+And can you tell me when will it go back to normal? You can't because nobody knows. The Fundamentals just got changed until it resumes to normal where labor/materials could flow freely again and thus volatility will remain which is bad for business.
+
+&amp;#x200B;
+
+Resource Section:
+
+The Supply chain article in last week: [https://www.reddit.com/r/wallstreetbets/comments/fbpiqa/it\_seems\_supply\_chains\_for\_many\_companies\_are/](https://www.reddit.com/r/wallstreetbets/comments/fbpiqa/it_seems_supply_chains_for_many_companies_are/)
+
+Empty Ports:
+
+[https://www.portandterminal.com/watch-longshoreman-at-port-of-los-angeles-posts-updates-as-it-grinds-to-a-halt/](https://www.portandterminal.com/watch-longshoreman-at-port-of-los-angeles-posts-updates-as-it-grinds-to-a-halt/)
+
+Where Is the iPhone Made?:
+
+[https://www.lifewire.com/where-is-the-iphone-made-1999503](https://www.lifewire.com/where-is-the-iphone-made-1999503)
+
+Volatile market sparks call for review of how air freight capacity is traded:
+
+[https://theloadstar.com/volatile-market-sparks-call-for-review-of-how-air-freight-capacity-is-traded/](https://theloadstar.com/volatile-market-sparks-call-for-review-of-how-air-freight-capacity-is-traded/)
+
+Freight transport:
+
+[https://en.wikipedia.org/wiki/Freight\_transport](https://en.wikipedia.org/wiki/Freight_transport)
+
+My post about the potential outcome:
+
+[https://www.reddit.com/r/wallstreetbets/comments/fezfqi/the\_ultimate\_collapse\_of\_the\_modern\_financial/](https://www.reddit.com/r/wallstreetbets/comments/fezfqi/the_ultimate_collapse_of_the_modern_financial/)
+
+[r/supplychain](https://www.reddit.com/r/supplychain/) Status Update:
+
+[https://www.reddit.com/r/supplychain/comments/few230/covid19\_update\_saturday\_7th\_march/](https://www.reddit.com/r/supplychain/comments/few230/covid19_update_saturday_7th_march/)
+
+Breakeven Oil Prices Underscore Shale’s Impact on the Market:
+
+[https://www.dallasfed.org/research/economics/2019/0521](https://www.dallasfed.org/research/economics/2019/0521)
+
+Music I'm listening while writing this mess: [some weird music](https://www.youtube.com/watch?v=GT_lNTvp1a4)",t2_5obylvgm,False,,0,False,A comprehensive analysis of the current global supply chain situation,[],r/investing,False,6,,0,False,t3_ffqsgl,False,dark,,public,15,0,{},,False,[],,False,False,,{},,False,15,,True,,1583737590.0,,[],{},,True,,1583766014.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I saw that there isn&amp;#39;t any posts discussing about the problems about supply chains on &lt;a href=""/r/investing""&gt;r/investing&lt;/a&gt;, so I decided to put supply chain DD post here too&lt;/p&gt;
+
+&lt;p&gt;Tl;dr : Shortage are happening everywhere for both individuals and businesses, things are bad.&lt;/p&gt;
+
+&lt;p&gt;Liquidity problems for many businesses may lead to bankruptcies =banks loans default=Financial problems again&lt;/p&gt;
+
+&lt;p&gt;Extreme uncertainty as regions could get quarantine(Italy), virus is spreading rapidly in Europe/US and causing many shutdowns&lt;/p&gt;
+
+&lt;p&gt;Just stay out of the market or short stocks on everything except health care, funeral, tech sector&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Last week I share an article on WSB about the supply chains problems in China last week which you could find at the resource section, I previously said that the article haven&amp;#39;t even accounted about a potential outbreak may lead to Europe and US factories being shutdown causing a longer supply chain shortage.&lt;/p&gt;
+
+&lt;p&gt;I originally estimate that there might be shut downs not earlier than Mid March, now look at Italy and a 14 mil region already got shut down and we are not even at Mid March yet.&lt;/p&gt;
+
+&lt;p&gt;Ports in LA has been half empty since Mar 3, a twitter post says that usually there are 5 trains a day out of there, now down to 32. Usually has 16,000 trucks in the port, that&amp;#39;s down by half.&lt;/p&gt;
+
+&lt;p&gt;You think shit is real but things should get back normal in Mid March and china should be pumping those industrial goods now? Dead Wrong.&lt;/p&gt;
+
+&lt;p&gt;China could only make low to semi mid tier tech grade items, since factories are reopen back around Early March they could still use those stored inventory from Jan. But if you want to assemble an more high tech stuff like Iphone you would need parts from at least from Germany,Switzerland, Japan, US and Chinese components take a look at the pic to get an idea &lt;a href=""https://www.lifewire.com/thmb/GN0t3RvvmWfWdoHYlgJGEe0c-ys=/2000x0/filters:no_upscale(""&gt;here&lt;/a&gt;:max_bytes(150000):strip_icc():format(webp)/Lifewire_Where_Is_The_Iphone_Made_1999503_V2-345d781fed0b48909b2fc5c6b52ff325.png) , but factories from everywhere is closing/got infected/needs quarantine at an unprecedented rate.&lt;/p&gt;
+
+&lt;p&gt;Here are some examples:&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Japan Has shut down its F35 factory in Mar 4 (An italy factory also shutdown too) &lt;a href=""https://www.defenseone.com/business/2020/03/f-35-factory-japan-shuts-down-amid-coronavirus-outbreak/163505/""&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Korea car factory shut down &lt;a href=""https://pulsenews.co.kr/view.php?sc=30800028&amp;amp;year=2020&amp;amp;no=222523""&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Samsung Wants to move its factories to Vietnam for making parts for its smartphone, but it turns out that A London-Hanoi flight has caused the beer virus to spread in Vietnam right now, things are not looking good. &lt;a href=""https://www.reuters.com/article/us-health-coronavirus-samsung-elec/samsung-to-shift-some-smartphone-production-to-vietnam-due-to-coronavirus-idUSKBN20T10T""&gt;here&lt;/a&gt; and &lt;a href=""https://www.bloomberg.com/news/articles/2020-03-08/virus-outbreak-tied-to-london-hanoi-flight-rattles-vietnam""&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;The last supply chain shock to the globe was from the earthquake that hit Japan in 2011, so most CEOs who wants to cut costs and pump their stock price has already switch to JIT and the earthquake was just a single country shock, and nobody expect a bloody global supply chain collapse since there isn&amp;#39;t one before in history.&lt;/p&gt;
+
+&lt;p&gt;Currently most companies across the globe are facing the problem of not having inventory since the Chinese factories shut down in late Jan as most only runs on 15-30 day inventory.&lt;/p&gt;
+
+&lt;p&gt;While a report says that A total of 78 million Chinese migrant rural workers have already returned to work, accounting for 60% of the total who left for home for the Chinese New Year holiday &lt;a href=""https://www.reuters.com/article/us-health-coronavirus-workers/china-says-78-million-migrant-rural-workers-have-returned-to-work-idUSKBN20U0A0""&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But Chinese companies are still mostly producing from inventory left from Jan, as they just open back their factories and ordering new supplies would likely take at least 1 week for factories to resume production if they run out of materials. Hubei is still in shutdown, there are also reports about reopening factories but no one is working and they just turn on the equipment as to satisfy the electricity quotas set by the officials &lt;a href=""https://www.zerohedge.com/economics/lights-are-no-ones-working-how-china-faking-coronavirus-recovery""&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;People with beer virus suddenly falls down and the factory could got shut down &lt;a href=""https://twitter.com/SYC999/status/1236072794473074690""&gt;vid&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I predict that China may get back to 50% production capacity for things that doesn&amp;#39;t need external exports in late March - Early April.&lt;/p&gt;
+
+&lt;p&gt;Did I even talk about the second wave of disruption coming to Chinese factories? &lt;a href=""https://www.reuters.com/article/us-health-coronavirus-china-factories/chinas-factories-at-risk-of-double-whammy-as-coronavirus-hits-south-korea-japan-idUSKBN20P21I""&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;So, you may say things are bad but those air freight could transport shit to other countries fast, right?&lt;/p&gt;
+
+&lt;p&gt;Maybe, the air freight market is acting like WSB and the price is as volatile as the VIX index, the price for air freight also seems to be doubled. &lt;a href=""https://theloadstar.com/wp-content/uploads/china-ustac.png""&gt;pic here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, Sea freights which consists of 90% of global freight trade would take like a month for transporting stuff.&lt;/p&gt;
+
+&lt;p&gt;Most factories in Europe and US would wait to April - early May (which they mostly alreday run out of inventory for 1-3 months) for Cargo ship to arrive to the ports, and so you may think they could finally get their long waited inventory. Cheers Right? No Again&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Remember there is a Italy lock down?&lt;/p&gt;
+
+&lt;p&gt;Hubei is still in lock down since late Jan and still haven&amp;#39;t been reopen yet.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s assume that things are better in Italy and it would take a month to reopen back, but what would happen to nearby regions and countries like in southern Italy,Germany, France,Switzerland? France and German already has 1000 cases.&lt;/p&gt;
+
+&lt;p&gt;If the rate of increase continues as the expected projection, it seems that they would also be in lock down and those lock down would never could be as effective as in china.&lt;/p&gt;
+
+&lt;p&gt;So even northern Italy reopens in a month it would still impossible to reopen business since other nearby regions would be likely in their own lock down as well.&lt;/p&gt;
+
+&lt;p&gt;This is due to the fact the virus spread faster than any flu virus we have seen before which is at around 2.2-2.68 rate, this is higher than the h1n1 flu of 1.46, and the beer virus is likely more deadly as the Spanish Flu (but maybe due to much higher old population than any time in history), you could look about the comparison &lt;a href=""https://en.wikipedia.org/wiki/Template:Notable_flu_pandemics""&gt;here&lt;/a&gt; (thanks for the covid dd post)&lt;/p&gt;
+
+&lt;p&gt;This is like an endless feedback loop and until a cure or a vaccine comes out(which should take more than a year), things would mostly get worse.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+
+&lt;p&gt;So you could see how bad the supply chain problem is , the collapse of the supply chain would cause many business to shut down and debts defaults for both consumer and businesses.&lt;/p&gt;
+
+&lt;p&gt;Europe and Japan are already in negative rates, they are already not profitable and lower rates would likely to cause the banks unable to profit from business services and cause a financial collapse again.&lt;/p&gt;
+
+&lt;p&gt;You could see my other post talking about the liquidity problem, the repo market problem and Deutsche Bank , if you are interested on supply chain problems you could follow &lt;a href=""https://www.reddit.com/r/supplychain/""&gt;r/supplychain&lt;/a&gt; for further updates (Both posts are attached below at the resources part)&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Extra 1: &lt;a href=""https://www.reddit.com/user/hey_ross/""&gt;hey_ross&lt;/a&gt; says about the shale oil debt is gonna explode due to the amount of debt, which is true:&lt;/p&gt;
+
+&lt;p&gt;A.because the supply chains are collapsing and factories/China won&amp;#39;t need that much oil, two months for like 50% drop of oil demand could already lower the oil price ;&lt;/p&gt;
+
+&lt;p&gt;B.The shale oil industry just got 911 by the Russians and the Saudis and they are unable to be break even below 50, now the price is just 30 so a 40% decline of revenue for those shale oil companies &lt;a href=""https://www.dallasfed.org/research/economics/2019/%7E/media/Images/research/economics/2019/0521/0521c1.png""&gt;pic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;C. Shale oil was already having problems since 2018 and has around 200 billion debts.&lt;/p&gt;
+
+&lt;p&gt;As of the end of 2018, so this number is a little bit old, we’ve spent about $1 trillion in U.S. oil shale and we’ve returned about $700 billion to the companies in the form of cash flow for a whopping, negative 38% cash-on-cash return, The total return to shareholders in the sector in the last decade was effectively zero &lt;a href=""http://www.startribune.com/schafer-shale-oil-passed-its-peak-without-making-money/567884742/""&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Extra 2: Someone in WSB says the fundamentals remain and my post is just fear.&lt;/p&gt;
+
+&lt;p&gt;The Fundamentals as of now are Northern Italy just got quarantine with a 14 mil population,Industries are stopping and labour,materials could not flow freely.&lt;/p&gt;
+
+&lt;p&gt;The Industrial Triangle of Italy just got quarantine,The quarantine will take over the Italian economic zones. About a third of the national gross domestic product (GDP) comes from the regions of Lombardy and Veneto. According to the financial service company Moody&amp;#39;s, Italy&amp;#39;s GDP will decrease by 0.5 percent this year. &lt;a href=""https://www.aljazeera.com/news/2020/03/italy-quarantines-quarter-population-fight-coronavirus-200308071832617.html""&gt;https://www.aljazeera.com/news/2020/03/italy-quarantines-quarter-population-fight-coronavirus-200308071832617.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And can you tell me when will it go back to normal? You can&amp;#39;t because nobody knows. The Fundamentals just got changed until it resumes to normal where labor/materials could flow freely again and thus volatility will remain which is bad for business.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Resource Section:&lt;/p&gt;
+
+&lt;p&gt;The Supply chain article in last week: &lt;a href=""https://www.reddit.com/r/wallstreetbets/comments/fbpiqa/it_seems_supply_chains_for_many_companies_are/""&gt;https://www.reddit.com/r/wallstreetbets/comments/fbpiqa/it_seems_supply_chains_for_many_companies_are/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Empty Ports:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.portandterminal.com/watch-longshoreman-at-port-of-los-angeles-posts-updates-as-it-grinds-to-a-halt/""&gt;https://www.portandterminal.com/watch-longshoreman-at-port-of-los-angeles-posts-updates-as-it-grinds-to-a-halt/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Where Is the iPhone Made?:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.lifewire.com/where-is-the-iphone-made-1999503""&gt;https://www.lifewire.com/where-is-the-iphone-made-1999503&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Volatile market sparks call for review of how air freight capacity is traded:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://theloadstar.com/volatile-market-sparks-call-for-review-of-how-air-freight-capacity-is-traded/""&gt;https://theloadstar.com/volatile-market-sparks-call-for-review-of-how-air-freight-capacity-is-traded/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Freight transport:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://en.wikipedia.org/wiki/Freight_transport""&gt;https://en.wikipedia.org/wiki/Freight_transport&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My post about the potential outcome:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.reddit.com/r/wallstreetbets/comments/fezfqi/the_ultimate_collapse_of_the_modern_financial/""&gt;https://www.reddit.com/r/wallstreetbets/comments/fezfqi/the_ultimate_collapse_of_the_modern_financial/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.reddit.com/r/supplychain/""&gt;r/supplychain&lt;/a&gt; Status Update:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.reddit.com/r/supplychain/comments/few230/covid19_update_saturday_7th_march/""&gt;https://www.reddit.com/r/supplychain/comments/few230/covid19_update_saturday_7th_march/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Breakeven Oil Prices Underscore Shale’s Impact on the Market:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.dallasfed.org/research/economics/2019/0521""&gt;https://www.dallasfed.org/research/economics/2019/0521&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Music I&amp;#39;m listening while writing this mess: &lt;a href=""https://www.youtube.com/watch?v=GT_lNTvp1a4""&gt;some weird music&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffqsgl,True,,hoseex999,,5,True,all_ads,False,[],False,,/r/investing/comments/ffqsgl/a_comprehensive_analysis_of_the_current_global/,all_ads,False,https://www.reddit.com/r/investing/comments/ffqsgl/a_comprehensive_analysis_of_the_current_global/,945369,1583737214.0,0,,False
+,investing,"When markets crash big time, governments sometimes step in and temporarily ban short selling.
+
+Does anyone know what happens to inverse ETFs like SQQQ if this happens?
+
+I'm asking because I've got a big SQQQ position on to hedge my tech-concentrated longs.",t2_7ff7se5,False,,0,False,What happens to inverse ETFs like SQQQ if short selling is banned?,[],r/investing,False,6,,0,False,t3_ffqc5l,False,dark,,public,15,0,{},,False,[],,False,False,,{},,False,15,,True,,False,,[],{},,True,,1583763169.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;When markets crash big time, governments sometimes step in and temporarily ban short selling.&lt;/p&gt;
+
+&lt;p&gt;Does anyone know what happens to inverse ETFs like SQQQ if this happens?&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m asking because I&amp;#39;ve got a big SQQQ position on to hedge my tech-concentrated longs.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffqc5l,True,,skuggic,,9,True,all_ads,False,[],False,,/r/investing/comments/ffqc5l/what_happens_to_inverse_etfs_like_sqqq_if_short/,all_ads,False,https://www.reddit.com/r/investing/comments/ffqc5l/what_happens_to_inverse_etfs_like_sqqq_if_short/,945369,1583734369.0,0,,False
+,investing,"Looks like Monday will open down. Oil is getting killed. DOW futures down 1000 points.
+
+Getting Interesting. Predict Fed will have to intervene this week to calm markets. Corona Virus continues to spread. Italy and Europe are tanking.
+
+https://www.cnn.com/2020/03/08/investing/stock-dow-futures-coronavirus/index.html",t2_4wa9mlhb,False,,0,False,DOW Futures down 1000 points.,[],r/investing,False,6,,0,False,t3_fflwc0,False,dark,,public,48,0,{},,False,[],,False,False,,{},,False,48,,False,,False,,[],{},,True,,1583741661.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Looks like Monday will open down. Oil is getting killed. DOW futures down 1000 points.&lt;/p&gt;
+
+&lt;p&gt;Getting Interesting. Predict Fed will have to intervene this week to calm markets. Corona Virus continues to spread. Italy and Europe are tanking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.cnn.com/2020/03/08/investing/stock-dow-futures-coronavirus/index.html""&gt;https://www.cnn.com/2020/03/08/investing/stock-dow-futures-coronavirus/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fflwc0,True,,KingofSwansea,,11,False,all_ads,False,[],False,,/r/investing/comments/fflwc0/dow_futures_down_1000_points/,all_ads,False,https://www.reddit.com/r/investing/comments/fflwc0/dow_futures_down_1000_points/,945369,1583712861.0,0,,False
+,investing,"""[Oil prices plunged last week](https://www.cnbc.com/2020/03/06/oil-sinks-5percent-to-multi-year-low-on-uncertain-opec-deal.html) as OPEC and its allies failed to reach an agreement on production cuts, and as prices look set to continue cratering, some are warning about the impact on the broader economy.
+
+“Crude has become a bigger problem for markets than the coronavirus,” Adam Crisafulli, founder of Vital Knowledge, said Sunday. “It will be virtually impossible for the \[S&amp;P 500\] to sustainably bounce if Brent continues to crater,” he added.
+
+Crisafulli noted that oil is “critical” to the U.S. economy. Many people are employed by the industry, and highly leveraged oil and gas companies are key to the fixed income market.
+
+“The sector is like the ‘FANG’ of credit, esp. high yield, given the enormous amount of debt it has outstanding,” he said.
+
+Oil prices have been suppressed since the coronavirus outbreak stoked fears about a slowdown in demand for crude. [U.S. West Texas Intermediate crude](https://www.cnbc.com/quotes/?symbol=@CL.1) has dropped 32% this year, while international benchmark [Brent crude](https://www.cnbc.com/quotes/?symbol=@LCO.1) is down 31%. 
+
+Many on the Street expected [OPEC](https://www.cnbc.com/id/10000937) to step in with deeper production cuts in an effort to prop up prices. But after talks collapsed Friday — OPEC ally Russia refused to agree to the proposed additional output reductions of 1.5 million barrels per day —  there could now also be issues on the supply side.
+
+The 14-member cartel and its allies, known as OPEC+, also failed to reach an agreement on extending the current production cuts. This means that on April 1, when the current agreement expires, each nation effectively has free rein over how much crude it pumps.
+
+On Saturday [Saudi Arabia announced massive discounts to its official selling prices for April](https://www.cnbc.com/2020/03/08/opec-deal-collapse-sparks-price-war-20-oil-in-2020-is-coming.html), and the nation could theoretically pump up to its capacity of 12.5 million barrels per day. 
+
+“As from 1 April we are starting to work without minding the quotas or reductions which were in place earlier,” Russian Energy Minister Alexander Novak told reporters Friday at the OPEC+ meeting in Vienna, before adding, “but this does not mean that each country would not monitor and analyze market developments.” 
+
+On Friday, U.S. West Texas Intermediate slid 10.07% — its worst day since November 2014 — to settle at a more than three-year low of $41.28 per barrel. International benchmark Brent crude sank 9.44% to settle at $45.27 per barrel, its lowest since June 2017. 
+
+Both WTI and Brent are currently in bear market territory -- down 38% and 40%, respectively, from recent highs -- and analysts say prices still have further to fall.
+
+Morgan Stanley forecasts Brent falling to $35 per barrel in the second quarter, with WTI trading as low as $30 per barrel. The firm’s prior forecast had Brent at $57.50 and WTI at $52.50.
+
+Some are even more bearish. 
+
+″$20 oil in 2020 is coming,” Ali Khedery, formerly Exxon’s senior Middle East advisor and now CEO of U.S.-based strategy firm Dragoman Ventures, wrote Sunday on Twitter. “Huge geopolitical implications. Timely stimulus for net consumers. Catastrophic for failed/failing petro-kleptocracies Iraq, Iran, etc - may prove existential 1-2 punch when paired with COVID19.”
+
+That said, Crisafulli contended that a price war this time around “shouldn’t be as bleak as 2015” when Brent prices collapsed to $28 in January 2016, since this time around Saudi Arabia “isn’t the aggressor,” and also because the kingdom “can’t tolerate an oil depression.”
+
+“The country’s fiscal breakeven oil prices remain very high, Saudi Aramco is now a public company, and MBS’s grip on power isn’t yet absolute,” he said. “As a result, the gov’t won’t be so cavalier in sending oil back into the $30s (or even lower).”
+
+&amp;#x200B;
+
+[https://www.cnbc.com/2020/03/08/oil-a-bigger-problem-for-markets-than-the-coronavirus-after-opec-deal-collapse.html](https://www.cnbc.com/2020/03/08/oil-a-bigger-problem-for-markets-than-the-coronavirus-after-opec-deal-collapse.html)",t2_4vmlalpx,False,,0,False,"""Crude has become a bigger problem for markets than the Coronavirus""",[],r/investing,False,6,,0,False,t3_ffkeoy,False,dark,,public,60,0,{},,False,[],,False,False,,{},,False,60,,True,,False,,[],{},,True,,1583735360.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&amp;quot;&lt;a href=""https://www.cnbc.com/2020/03/06/oil-sinks-5percent-to-multi-year-low-on-uncertain-opec-deal.html""&gt;Oil prices plunged last week&lt;/a&gt; as OPEC and its allies failed to reach an agreement on production cuts, and as prices look set to continue cratering, some are warning about the impact on the broader economy.&lt;/p&gt;
+
+&lt;p&gt;“Crude has become a bigger problem for markets than the coronavirus,” Adam Crisafulli, founder of Vital Knowledge, said Sunday. “It will be virtually impossible for the [S&amp;amp;P 500] to sustainably bounce if Brent continues to crater,” he added.&lt;/p&gt;
+
+&lt;p&gt;Crisafulli noted that oil is “critical” to the U.S. economy. Many people are employed by the industry, and highly leveraged oil and gas companies are key to the fixed income market.&lt;/p&gt;
+
+&lt;p&gt;“The sector is like the ‘FANG’ of credit, esp. high yield, given the enormous amount of debt it has outstanding,” he said.&lt;/p&gt;
+
+&lt;p&gt;Oil prices have been suppressed since the coronavirus outbreak stoked fears about a slowdown in demand for crude. &lt;a href=""https://www.cnbc.com/quotes/?symbol=@CL.1""&gt;U.S. West Texas Intermediate crude&lt;/a&gt; has dropped 32% this year, while international benchmark &lt;a href=""https://www.cnbc.com/quotes/?symbol=@LCO.1""&gt;Brent crude&lt;/a&gt; is down 31%. &lt;/p&gt;
+
+&lt;p&gt;Many on the Street expected &lt;a href=""https://www.cnbc.com/id/10000937""&gt;OPEC&lt;/a&gt; to step in with deeper production cuts in an effort to prop up prices. But after talks collapsed Friday — OPEC ally Russia refused to agree to the proposed additional output reductions of 1.5 million barrels per day —  there could now also be issues on the supply side.&lt;/p&gt;
+
+&lt;p&gt;The 14-member cartel and its allies, known as OPEC+, also failed to reach an agreement on extending the current production cuts. This means that on April 1, when the current agreement expires, each nation effectively has free rein over how much crude it pumps.&lt;/p&gt;
+
+&lt;p&gt;On Saturday &lt;a href=""https://www.cnbc.com/2020/03/08/opec-deal-collapse-sparks-price-war-20-oil-in-2020-is-coming.html""&gt;Saudi Arabia announced massive discounts to its official selling prices for April&lt;/a&gt;, and the nation could theoretically pump up to its capacity of 12.5 million barrels per day. &lt;/p&gt;
+
+&lt;p&gt;“As from 1 April we are starting to work without minding the quotas or reductions which were in place earlier,” Russian Energy Minister Alexander Novak told reporters Friday at the OPEC+ meeting in Vienna, before adding, “but this does not mean that each country would not monitor and analyze market developments.” &lt;/p&gt;
+
+&lt;p&gt;On Friday, U.S. West Texas Intermediate slid 10.07% — its worst day since November 2014 — to settle at a more than three-year low of $41.28 per barrel. International benchmark Brent crude sank 9.44% to settle at $45.27 per barrel, its lowest since June 2017. &lt;/p&gt;
+
+&lt;p&gt;Both WTI and Brent are currently in bear market territory -- down 38% and 40%, respectively, from recent highs -- and analysts say prices still have further to fall.&lt;/p&gt;
+
+&lt;p&gt;Morgan Stanley forecasts Brent falling to $35 per barrel in the second quarter, with WTI trading as low as $30 per barrel. The firm’s prior forecast had Brent at $57.50 and WTI at $52.50.&lt;/p&gt;
+
+&lt;p&gt;Some are even more bearish. &lt;/p&gt;
+
+&lt;p&gt;″$20 oil in 2020 is coming,” Ali Khedery, formerly Exxon’s senior Middle East advisor and now CEO of U.S.-based strategy firm Dragoman Ventures, wrote Sunday on Twitter. “Huge geopolitical implications. Timely stimulus for net consumers. Catastrophic for failed/failing petro-kleptocracies Iraq, Iran, etc - may prove existential 1-2 punch when paired with COVID19.”&lt;/p&gt;
+
+&lt;p&gt;That said, Crisafulli contended that a price war this time around “shouldn’t be as bleak as 2015” when Brent prices collapsed to $28 in January 2016, since this time around Saudi Arabia “isn’t the aggressor,” and also because the kingdom “can’t tolerate an oil depression.”&lt;/p&gt;
+
+&lt;p&gt;“The country’s fiscal breakeven oil prices remain very high, Saudi Aramco is now a public company, and MBS’s grip on power isn’t yet absolute,” he said. “As a result, the gov’t won’t be so cavalier in sending oil back into the $30s (or even lower).”&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.cnbc.com/2020/03/08/oil-a-bigger-problem-for-markets-than-the-coronavirus-after-opec-deal-collapse.html""&gt;https://www.cnbc.com/2020/03/08/oil-a-bigger-problem-for-markets-than-the-coronavirus-after-opec-deal-collapse.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffkeoy,True,,twitterisawesome,,11,True,all_ads,False,[],False,,/r/investing/comments/ffkeoy/crude_has_become_a_bigger_problem_for_markets/,all_ads,False,https://www.reddit.com/r/investing/comments/ffkeoy/crude_has_become_a_bigger_problem_for_markets/,945369,1583706560.0,0,,False
+,investing,"Wow. 
+
+TLT, EDV, TMF positioned for some wild moves tomorrow. Along with most other asset classes, of course.",t2_15e7bz,False,,0,False,30 Year US Treasury yield dips below 1%,[],r/investing,False,6,,0,False,t3_ffmsbg,False,dark,,public,36,0,{},,False,[],,False,False,,{},,False,36,,False,,False,,[],{},,True,,1583745624.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Wow. &lt;/p&gt;
+
+&lt;p&gt;TLT, EDV, TMF positioned for some wild moves tomorrow. Along with most other asset classes, of course.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffmsbg,True,,El_Peregrine,,13,True,all_ads,False,[],False,,/r/investing/comments/ffmsbg/30_year_us_treasury_yield_dips_below_1/,all_ads,False,https://www.reddit.com/r/investing/comments/ffmsbg/30_year_us_treasury_yield_dips_below_1/,945369,1583716824.0,0,,False
+,investing,"[Official statement](https://twitter.com/AskRobinhood/status/1237016846282280961) on Robinhood's Twitter account alerts that all trading operations are currently down. Robinhood's [status page](https://status.robinhood.com/) likewise shows ""Major Outage"" on all trading features: Equities, Crypto, and Options.",t2_5b2gdobh,False,,0,False,Robinhood in a major outage since market open today.,[],r/investing,False,6,,0,True,t3_ffvf11,False,dark,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1583792688.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://twitter.com/AskRobinhood/status/1237016846282280961""&gt;Official statement&lt;/a&gt; on Robinhood&amp;#39;s Twitter account alerts that all trading operations are currently down. Robinhood&amp;#39;s &lt;a href=""https://status.robinhood.com/""&gt;status page&lt;/a&gt; likewise shows &amp;quot;Major Outage&amp;quot; on all trading features: Equities, Crypto, and Options.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffvf11,True,,jinlonn,,3,True,all_ads,False,[],False,,/r/investing/comments/ffvf11/robinhood_in_a_major_outage_since_market_open/,all_ads,False,https://www.reddit.com/r/investing/comments/ffvf11/robinhood_in_a_major_outage_since_market_open/,945369,1583763888.0,0,,False
+,investing,Anybody know some apps better than robinhood that dont crash when the market gets busy? Tired of losing money because my orders not going through,t2_2u9jv4da,False,,0,False,Investing apps outside of robinhood?,[],r/investing,False,6,,0,True,t3_ffv7kp,False,dark,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1583791818.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Anybody know some apps better than robinhood that dont crash when the market gets busy? Tired of losing money because my orders not going through&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,True,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffv7kp,True,,dnewest,,4,True,all_ads,False,[],False,,/r/investing/comments/ffv7kp/investing_apps_outside_of_robinhood/,all_ads,False,https://www.reddit.com/r/investing/comments/ffv7kp/investing_apps_outside_of_robinhood/,945369,1583763018.0,0,,False
+,investing,"😂 😂 😂
+
+That's why you don't listen to any ""expert"".",t2_8n3bji,False,,0,False,Still waiting for that V shape recovery,[],r/investing,False,6,,0,True,t3_ffv3xu,False,dark,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1583791381.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;😂 😂 😂&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s why you don&amp;#39;t listen to any &amp;quot;expert&amp;quot;.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffv3xu,True,,TiltMastery,,7,True,all_ads,False,[],False,,/r/investing/comments/ffv3xu/still_waiting_for_that_v_shape_recovery/,all_ads,False,https://www.reddit.com/r/investing/comments/ffv3xu/still_waiting_for_that_v_shape_recovery/,945369,1583762581.0,0,,False
+,investing,[https://www.nasdaq.com/articles/stock-futures-fell-fast-enough-to-trigger-a-halt-2020-03-08](https://www.nasdaq.com/articles/stock-futures-fell-fast-enough-to-trigger-a-halt-2020-03-08),t2_125f66,False,,0,False,Stock futures trading is halted -- Now you cant even sell if you want to.,[],r/investing,False,6,,0,False,t3_ffsi07,False,dark,,public,7,0,{},,False,[],,False,False,,{},,False,7,,False,,False,,[],{},,True,,1583777573.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.nasdaq.com/articles/stock-futures-fell-fast-enough-to-trigger-a-halt-2020-03-08""&gt;https://www.nasdaq.com/articles/stock-futures-fell-fast-enough-to-trigger-a-halt-2020-03-08&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffsi07,True,,chopinrocks,,8,True,all_ads,False,[],False,,/r/investing/comments/ffsi07/stock_futures_trading_is_halted_now_you_cant_even/,all_ads,False,https://www.reddit.com/r/investing/comments/ffsi07/stock_futures_trading_is_halted_now_you_cant_even/,945369,1583748773.0,0,,False
+,investing,"In 2008 oil collapsed because of reduced demand due to reduced economic activity due to the recession/financial crisis.
+
+It seems like this time around the collapse is a disagreement between Russia and Saudi Arabia.
+
+Why wouldn't this be positive for the US economy? Energy is cheaper. Cheaper gas, cheaper costs of manufacturung, cheaper construction, etc
+
+I understand that if you are overexposed to oil, you are not going to be doing so well. But isn't that the only people who would be suffering?
+
+Are the concerns about the price of oil more relevant for those in middle America who work directly in the oil industry or People who own oil rights or other oil related income?
+
+I guess i struggle to see how it affects me. I only own a little CVX. I feel like cheap gas is going to be great ?",t2_pgvhtc,False,,0,False,How is cheap oil going to affect the stockmarket/economy negatively? Shouldn't cheap energy be net positive?,[],r/investing,False,6,,0,False,t3_fft1gt,False,dark,,public,6,0,{},,False,[],,False,False,,{},,False,6,,False,,1583752799.0,,[],{},,True,,1583780912.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;In 2008 oil collapsed because of reduced demand due to reduced economic activity due to the recession/financial crisis.&lt;/p&gt;
+
+&lt;p&gt;It seems like this time around the collapse is a disagreement between Russia and Saudi Arabia.&lt;/p&gt;
+
+&lt;p&gt;Why wouldn&amp;#39;t this be positive for the US economy? Energy is cheaper. Cheaper gas, cheaper costs of manufacturung, cheaper construction, etc&lt;/p&gt;
+
+&lt;p&gt;I understand that if you are overexposed to oil, you are not going to be doing so well. But isn&amp;#39;t that the only people who would be suffering?&lt;/p&gt;
+
+&lt;p&gt;Are the concerns about the price of oil more relevant for those in middle America who work directly in the oil industry or People who own oil rights or other oil related income?&lt;/p&gt;
+
+&lt;p&gt;I guess i struggle to see how it affects me. I only own a little CVX. I feel like cheap gas is going to be great ?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,True,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fft1gt,True,,teamasperger,,9,True,all_ads,False,[],False,,/r/investing/comments/fft1gt/how_is_cheap_oil_going_to_affect_the/,all_ads,False,https://www.reddit.com/r/investing/comments/fft1gt/how_is_cheap_oil_going_to_affect_the/,945369,1583752112.0,0,,False
+,investing,"As most of us likely know, Qiagen was acquired by Thermo Fisher last week. Based on the 6-K filed last week, it looks like the share sale will be completed in 9 weeks at a nearly 8% premium on where $QGEN is in premarket trading right now. 
+
+Is there something I am missing? Or are people just passing on “free” money?",t2_5l5cvagx,False,,0,False,Qiagen— Guaranteed Return?,[],r/investing,False,6,,0,False,t3_fftqwx,False,dark,,public,2,0,{},,False,[],,False,False,,{},,False,2,,False,,False,,[],{},,True,,1583784896.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;As most of us likely know, Qiagen was acquired by Thermo Fisher last week. Based on the 6-K filed last week, it looks like the share sale will be completed in 9 weeks at a nearly 8% premium on where $QGEN is in premarket trading right now. &lt;/p&gt;
+
+&lt;p&gt;Is there something I am missing? Or are people just passing on “free” money?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,True,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fftqwx,True,,floridahusker23,,5,True,all_ads,False,[],False,,/r/investing/comments/fftqwx/qiagen_guaranteed_return/,all_ads,False,https://www.reddit.com/r/investing/comments/fftqwx/qiagen_guaranteed_return/,945369,1583756096.0,0,,False
+,investing,"Good luck, whatever your position.
+
+https://finance.yahoo.com/news/rout-u-stock-futures-trigger-221631295.html",t2_6juvc,False,,0,False,"S&amp;P500 futures in lock-limit, Euro equities plunge by 10%, March VIX Futures trading at 50.",[],r/investing,False,6,,0,False,t3_ffr7p1,False,dark,,public,7,0,{},,False,[],,False,False,,{},,False,7,,False,,False,,[],{},,True,,1583768809.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Good luck, whatever your position.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://finance.yahoo.com/news/rout-u-stock-futures-trigger-221631295.html""&gt;https://finance.yahoo.com/news/rout-u-stock-futures-trigger-221631295.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffr7p1,True,,isplicer,,1,True,all_ads,False,[],False,,/r/investing/comments/ffr7p1/sp500_futures_in_locklimit_euro_equities_plunge/,all_ads,False,https://www.reddit.com/r/investing/comments/ffr7p1/sp500_futures_in_locklimit_euro_equities_plunge/,945369,1583740009.0,0,,False
+,investing,https://www.cnbc.com/2020/03/09/fed-to-step-up-liquidity-injections-to-guard-against-market-pressure.html,t2_jxm0u,False,,0,False,Fed to step up cash injections for banks to guard against market pressure,[],r/investing,False,6,,0,True,t3_fftzio,False,dark,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1583786130.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.cnbc.com/2020/03/09/fed-to-step-up-liquidity-injections-to-guard-against-market-pressure.html""&gt;https://www.cnbc.com/2020/03/09/fed-to-step-up-liquidity-injections-to-guard-against-market-pressure.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,fftzio,True,,jnf_goonie,,1,False,all_ads,False,[],False,,/r/investing/comments/fftzio/fed_to_step_up_cash_injections_for_banks_to_guard/,all_ads,False,https://www.reddit.com/r/investing/comments/fftzio/fed_to_step_up_cash_injections_for_banks_to_guard/,945369,1583757330.0,0,,False
+,investing,"Drafted bill. Expected to be signed today 
+
+https://www.bbc.co.uk/news/world-middle-east-51787238
+
+""The mandatory quarantine will last until early April.""
+
+""Night clubs, gyms, swimming pools, museums and ski resorts will be closed.
+
+Restaurants and cafes can open but customers must sit at least a metre apart.
+
+People will be told to stay home as much as possible, and those who break the quarantine could face three months in jail.
+
+Sports competitions will close to the public, and the president of Italy's football players' union has called for all football to stop. """,t2_3hc0f456,False,,0,False,Italy to quarantine 10 million,[],r/investing,False,6,,0,False,t3_ff3s7d,False,dark,,public,2632,0,{},,False,[],,False,False,,{},,False,2632,,False,,False,,[],{},,True,,1583653360.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Drafted bill. Expected to be signed today &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.bbc.co.uk/news/world-middle-east-51787238""&gt;https://www.bbc.co.uk/news/world-middle-east-51787238&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;The mandatory quarantine will last until early April.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Night clubs, gyms, swimming pools, museums and ski resorts will be closed.&lt;/p&gt;
+
+&lt;p&gt;Restaurants and cafes can open but customers must sit at least a metre apart.&lt;/p&gt;
+
+&lt;p&gt;People will be told to stay home as much as possible, and those who break the quarantine could face three months in jail.&lt;/p&gt;
+
+&lt;p&gt;Sports competitions will close to the public, and the president of Italy&amp;#39;s football players&amp;#39; union has called for all football to stop. &amp;quot;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ff3s7d,True,,LeopoldAlcocks,,896,True,all_ads,False,[],False,,/r/investing/comments/ff3s7d/italy_to_quarantine_10_million/,all_ads,False,https://www.reddit.com/r/investing/comments/ff3s7d/italy_to_quarantine_10_million/,945369,1583624560.0,1,,False
+,investing,Do people think firms vulnerable to short-term cashflow issues will be targeted for full-sale acquisitions? I primarily invest in Berkshire for their ability to make moves I can't as a retail investor and not simply buy and sell stocks.,t2_318ztqss,False,,0,False,How do people think BRK will do if there's a major downturn and when do you think Buffet will start buying in?,[],r/investing,False,6,,0,True,t3_ffvfgo,False,dark,,public,2,0,{},,False,[],,False,False,,{},,False,2,,False,,False,,[],{},,True,,1583792742.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Do people think firms vulnerable to short-term cashflow issues will be targeted for full-sale acquisitions? I primarily invest in Berkshire for their ability to make moves I can&amp;#39;t as a retail investor and not simply buy and sell stocks.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,False,,,,t5_2qhhq,,,,ffvfgo,True,,Freeman6574,,1,True,all_ads,False,[],False,,/r/investing/comments/ffvfgo/how_do_people_think_brk_will_do_if_theres_a_major/,all_ads,False,https://www.reddit.com/r/investing/comments/ffvfgo/how_do_people_think_brk_will_do_if_theres_a_major/,945369,1583763942.0,0,,False
