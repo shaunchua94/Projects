@@ -1,11 +1,11 @@
 # Project Content Page
 
-## 1) Regression
-* General Assembly Capstone Project (Investigating the Education Consultancy Business)
+## Regression
+1. General Assembly Capstone Project (Investigating the Education Consultancy Business)
 
-## 2) Classification
+## Classification
 
-## 3) Natural Language Processing (NLP)
-* Gambling or Problem Gambling?
+## Natural Language Processing (NLP)
+1. Gambling or Problem Gambling?
 
-## 4) Clustering
+## Clustering
