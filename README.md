@@ -1,4 +1,4 @@
-# Project Content Page
+# Contents Page
 
 ## Regression
 1. General Assembly Capstone Project (Investigating the Education Consultancy Business)
