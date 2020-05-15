@@ -26,7 +26,7 @@ The two subreddits I will be using are <a href="https://www.reddit.com/r/problem
 
 **Classification Metrics**
 <br> Several classification metrics will be considered, and these include:
-<br> 1) Accuracy
+1) Accuracy
 2) Sensitivity
 3) Specificity
 4) ROC_AUC Score
@@ -47,8 +47,8 @@ This project utilised reddit's Application Programming Interface (API) to scrape
 
 #### 1.1 Data Cleaning
 We then combined the two CSV files and begun cleaning the data in approximiately the following order:
-1) Feature column selection (`subreddit`, `selftext`, and `title`)
-<br> 2) Dropping duplicates (likely to be reposts)
+1) Feature column selection: `subreddit`, `selftext`, and `title`
+2) Dropping duplicates (likely to be reposts)
 3) Resolving/Imputation for missing values of `subreddit`, `selftext`, and `title`
 4) Mapping both subreddits, `1: problemgambling` and `0: gambling`
 5) Cleaning posts (tokenisation, stopword removal, lemmetisation)
