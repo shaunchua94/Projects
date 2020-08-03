@@ -1,7 +1,7 @@
 # Contents Page
 
 ## Regression
-1. General Assembly Capstone Project (Investigating the Education Consultancy Business)
+1. Advising an Ecommerce Business
 
 ## Classification
 
