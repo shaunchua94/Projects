@@ -1,6 +1,6 @@
 # Advising an Ecommerce Business
 **Shaun Chua**
-2 July 2020
+<br>2 July 2020
 
 
 This project is adapted from Jose Portilla's <a href='https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/'> Python for Data Science and Machine Learning Bootcamp</a>.
