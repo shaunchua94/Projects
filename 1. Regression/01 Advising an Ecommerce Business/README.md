@@ -1,4 +1,4 @@
-<img src='./images/ecommerce-banner.PNG'>
+<img src='./images/ecommerce-banner.png'>
 <a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Image Source: Xenelsoft</a>
 
 # Advising an Ecommerce Business
