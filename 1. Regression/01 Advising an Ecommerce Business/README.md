@@ -1,5 +1,4 @@
 <img src='./images/ecommerce-banner.png'>
-<div style="text-align: right"> <a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Image Source: Xenelsoft</a></div>
 
 # Advising an Ecommerce Business
 **Shaun Chua**
@@ -33,3 +32,6 @@ Python
 
 ## Contributors
 [Shaun Chua](https://github.com/shaunchua94)
+
+## Credits
+Banner Image for README: <a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Xenelsoft</a></div>
