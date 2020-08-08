@@ -2,7 +2,7 @@
 
 # Predicting Boston Housing Prices
 **Shaun Chua**
-<br> 11 July 2020
+<br> 8 July 2020
 
 ## Pre-Requisites
 | Package      | Version | Purpose                                                                 |
@@ -30,3 +30,6 @@ The Boston Housing Prices dataset for this project was taken from the <a href='h
 
 ## Contributors
 [Shaun Chua](https://github.com/shaunchua94)
+
+## Credits
+Banner Image: <a href='https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png'>Google Cloud</a>
