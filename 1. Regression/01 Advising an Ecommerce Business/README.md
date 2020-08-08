@@ -1,5 +1,5 @@
 <img src='./images/ecommerce-banner.png'>
-<a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Image Source: Xenelsoft</a>
+<div style="text-align: right"> <a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Image Source: Xenelsoft</a></div>
 
 # Advising an Ecommerce Business
 **Shaun Chua**
