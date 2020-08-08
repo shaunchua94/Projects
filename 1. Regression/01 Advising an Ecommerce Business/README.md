@@ -34,4 +34,4 @@ Python
 [Shaun Chua](https://github.com/shaunchua94)
 
 ## Credits
-Banner Image for README: <a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Xenelsoft</a></div>
+Banner Image: <a href='https://www.xenelsoft.com/images/ecommercedesignbanner.png'>Xenelsoft</a></div>
