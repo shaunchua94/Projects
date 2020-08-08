@@ -1,3 +1,5 @@
+<img src='./images/house_banner.png'>
+
 # Predicting Boston Housing Prices
 **Shaun Chua**
 <br> 11 July 2020
