@@ -32,4 +32,4 @@ The Boston Housing Prices dataset for this project was taken from the <a href='h
 [Shaun Chua](https://github.com/shaunchua94)
 
 ## Credits
-Banner Image: <a href='https://www.reno.gov/Home/ShowImage?id=7739&t=635620964226970000'>Google Cloud</a>
+Banner Image: <a href='https://www.reno.gov/Home/ShowImage?id=7739&t=635620964226970000'>Reno.gov</a>
