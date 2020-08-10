@@ -1,4 +1,4 @@
-<img src='./images/house_banner.png'>
+<img src='./images/house_banner.gif'>
 
 # Predicting Boston Housing Prices
 **Shaun Chua**
@@ -6,7 +6,7 @@
 
 ## Pre-Requisites
 | Package      | Version | Purpose                                                                 |
-|:------------ |-----------------|:----------------------------------------------------------------|
+|:------------ |---------|:------------------------------------------------------------------------|
 | Python       | 3.7.6   | Programming Language                                                    |
 | Numpy        | 1.18.1  | Array-processing <br> Mathematical Operations                           |
 | Pandas       | 1.0.1   | Data Manipulation <br> Data Analysis                                    |
