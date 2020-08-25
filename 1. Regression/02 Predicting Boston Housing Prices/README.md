@@ -16,7 +16,7 @@
 | Scikit-learn | 0.22.1  | Statistical Modelling (Linear Regression) <br> Predictive Data Analysis |
 
 ## Project Overview
-The purpose of this project was to investigate features influencing housing prices in Boston, and to discover some of the most influential features affecting housing proces.
+The purpose of this project was to investigate features influencing housing prices in Boston, and to discover some of the most influential features affecting housing prices.
 
 The Boston Housing Prices dataset for this project was taken from the <a href='https://scikit-learn.org/stable/datasets/index.html'>scikit-learn datasets package</a>.
 
