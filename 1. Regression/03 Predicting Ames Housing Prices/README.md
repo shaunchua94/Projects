@@ -23,7 +23,9 @@ The datasets for this project were taken from the <a href='https://www.kaggle.co
 
 A Root Mean Squared Logarithmic Error (RMSLE) score of 0.16906 was achieved for this project.
 
-**Note:** The Notebook Validation Error for plotly seems to be resolved when the notebook is first opened with Jupyter Labs.
+<img src='./images/kaggle_score.PNG'>
+
+<br> **Note:** The Notebook Validation Error for plotly seems to be resolved when the notebook is first opened with Jupyter Labs.
 
 ## Methods Used
 * Multiple Linear Regression
