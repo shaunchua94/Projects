@@ -25,7 +25,9 @@ A Root Mean Squared Logarithmic Error (RMSLE) score of 0.16906 was achieved for 
 
 <img src='./images/kaggle_score.PNG'>
 
-<br> **Note:** The Notebook Validation Error for plotly seems to be resolved when the notebook is first opened with Jupyter Labs.
+<br> **Notes:**
+* The Notebook Validation Error for plotly seems to be resolved when the notebook is first opened with Jupyter Labs.
+* The notebook with interactive plotly charts may be viewed [here](https://nbviewer.jupyter.org/github/shaunchua94/Projects/blob/master/1.%20Regression/03%20Predicting%20Ames%20Housing%20Prices/03%20Predicting%20Ames%20Housing%20Prices.ipynb). 
 
 ## Methods Used
 * Multiple Linear Regression
