@@ -9,6 +9,7 @@ Welcome!
 3. [Predicting Ames Housing Prices](https://github.com/shaunchua94/Projects/tree/master/1.%20Regression/03%20Predicting%20Ames%20Housing%20Prices)
 
 ## Logistic Regression
+1. [Titanic: Machine Learning from Disaster](https://github.com/shaunchua94/Projects/blob/master/2.%20Logistic%20Regression/01%20Titanic%20Machine%20Learning%20from%20Disaster/01%20Titanic%20Machine%20Learning%20from%20Disaster.ipynb)
 
 ## K-Nearest Neighbours (KNN)
 
