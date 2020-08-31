@@ -29,7 +29,7 @@ An accuracy score of 0.65071 was achieved for this project.
 
 <br> **Notes:**
 * The Notebook Validation Error for plotly seems to be resolved when the notebook is first opened with Jupyter Labs.
-* The notebook with interactive plotly charts may be viewed [here]().
+* The notebook with interactive plotly charts may be viewed [here](https://nbviewer.jupyter.org/github/shaunchua94/Projects/blob/master/2.%20Logistic%20Regression/01%20Titanic%20Machine%20Learning%20from%20Disaster/01%20Titanic%20Machine%20Learning%20from%20Disaster.ipynb).
 
 ## Methods Used
 * Logistic Regression
